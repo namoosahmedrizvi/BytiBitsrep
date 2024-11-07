@@ -1,0 +1,502 @@
+
+.connctWithUsCf{
+width: 97% !important;
+display: flex;
+flex-direction: column;
+
+padding: 0rem auto 0 auto;
+background-color: #f4efec;
+margin: 10rem auto 0 auto !important;
+
+
+}
+
+.Vector8{
+    width:40% !important;
+    height: auto;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem auto 0rem auto;
+    z-index: 1;    
+}
+
+
+.maindiv{
+
+    position: relative;
+    margin: -.5rem auto 0 auto !important;
+    width:90% !important;
+    height: auto;
+    
+    background-color: #373737;
+    border-radius: 2rem;
+    z-index: 2;
+ 
+}
+
+
+.patternAYR{
+    width: 70% !important;
+    height: auto;
+    margin:2rem 0 1.2% -.9%;
+}
+
+
+.text{
+    width:90%;
+    justify-content: center;
+    margin: 20% 0 0 5%;
+
+    color: white;
+    }
+
+    .ReadyHead{
+        width: 50%;
+        font-size: 300%;
+        font-weight: 700;
+        margin: 0 0 0 20% !important;
+       
+    }
+    .ayrgraph{
+        width:50%;
+        font-size: 180%;
+       margin:0 0 0 15% !important;
+        color: #FFF;
+        
+    
+    
+    }        
+
+
+    .digitspan{
+        color: #FA4000;
+    }
+    .ReBtn2{
+        background: #000 !important;
+        margin: 0 0 0 20% !important;
+        text-decoration: none !important;
+
+    } 
+    .ReBtn2:hover{
+        background: #FA4000 !important;
+    }
+    .grouprow{
+        display: flex;
+    }
+    .DoubleRect1{
+
+        width: 22% !important;
+        height: auto;
+   margin: -2.5% 0 10% 76% !important;     
+
+        
+         }   
+
+.btnLink{
+    text-decoration: none !important;
+}
+@media (max-width:500px) {
+    .ReBtn2{
+        font-size: 1.5rem;
+    }
+
+
+    .ReadyHead{
+        width: 70%;
+        font-size: 28px;
+        font-weight:bold;
+    }
+    .ayrgraph{
+        width:90%;
+        font-size: 18px;
+        margin-top: 2rem;
+       
+        color: #FFF;
+    
+    
+    }        
+
+
+    .digitspan{
+        color: #FA4000;
+    }
+    .ReBtn2{
+        background: #000 !important;
+        margin-top: 2rem;
+        font-size: 8px;
+    } 
+    .ReBtn2:hover{
+        background: #FA4000 !important;
+    }
+    .grouprow{
+        display: flex;
+    }
+    .DoubleRect1{
+
+        width: 30%;
+        height: auto;
+   margin: -7% 0 10% 76% !important;     
+
+        
+         }   
+
+
+}
+
+
+
+
+
+@media (min-width:501px) and (max-width:767px) {
+    .ReBtn2{
+        font-size: 1.5rem;
+    }
+
+
+    .ReadyHead{
+        width: 90%;
+        font-size: 40px;
+        font-weight:bold;
+    }
+    .ayrgraph{
+        width:90%;
+        font-size: 30px;
+        margin-top: 2rem;
+       
+        color: #FFF;
+    
+    
+    }        
+
+
+    .digitspan{
+        color: #FA4000;
+    }
+    .ReBtn2{
+        background: #000 !important;
+        margin-top: 2rem;
+    } 
+    .ReBtn2:hover{
+        background: #FA4000 !important;
+    }
+    .grouprow{
+        display: flex;
+    }
+    .DoubleRect1{
+
+        width: 35%;
+        height: auto;
+   margin: -2% 0 10% 63%;     
+
+        
+         }   
+
+
+}
+
+
+
+@media (min-width:768px) and (max-width:991px){
+
+
+
+    .connctWithUsCf{
+
+        display: flex;
+        flex-direction: column;
+        
+        padding: 4rem auto 4rem auto;
+        
+        }
+        
+        .Vector8{
+            width:40%;
+            height: auto;
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 5rem auto 0rem auto;
+            z-index: 1;    
+        }
+        
+        
+        .maindiv{
+        
+            position: relative;
+            margin: -.5rem auto 0 auto;
+            width:90%;
+            height: auto;
+            
+            background-color: #373737;
+            border-radius: 2rem;
+            z-index: 2;
+         
+        }
+        
+        
+        .patternAYR{
+            width: 80%;
+            height: auto;
+            margin:8rem 0 1.2% -.9%;
+        }
+        
+        
+        .text{
+            width:90%;
+            justify-content: center;
+            margin: 20% 0 0 5%;
+        
+            color: white;
+            }
+        
+            .ReadyHead{
+                width: 90%;
+                font-size: 250%;
+                font-weight: 700;
+            }
+            .ayrgraph{
+                width:90%;
+                font-size: 150%;
+               
+                color: #FFF;
+            
+            
+            }        
+        
+        
+            .digitspan{
+                color: #FA4000;
+            }
+            .ReBtn2{
+                background: #000 !important;
+                margin-top: 1rem;
+            } 
+            .ReBtn2:hover{
+                background: #FA4000 !important;
+            }
+            .grouprow{
+                display: flex;
+            }
+            .DoubleRect1{
+        
+                width: 20%;
+                height: auto;
+           margin: -4% 0 12% 78% !important;     
+        
+                
+                 }   
+        
+        
+
+
+
+
+
+
+}
+
+
+
+@media (min-width:991px) and (max-width:1200px){
+
+
+
+    .connctWithUsCf{
+
+        display: flex;
+        flex-direction: column;
+        
+        padding: 4rem auto 4rem auto;
+        
+        }
+        
+        .Vector8{
+            width:40%;
+            height: auto;
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 5rem auto 0rem auto;
+            z-index: 1;    
+        }
+        
+        
+        .maindiv{
+        
+            position: relative;
+            margin: -.5rem auto 0 auto;
+            width:90%;
+            height: auto;
+            
+            background-color: #373737;
+            border-radius: 2rem;
+            z-index: 2;
+         
+        }
+        
+        
+        .patternAYR{
+            width: 80%;
+            height: auto;
+            margin:7rem 0 2% -.9%;
+        }
+        
+        
+        .text{
+            width:90%;
+            justify-content: center;
+            margin: 20% 0 0 5%;
+        
+            color: white;
+            }
+        
+            .ReadyHead{
+                width: 90%;
+                font-size: 280%;
+                font-weight: 700;
+            }
+            .ayrgraph{
+                width:90%;
+                font-size: 180%;
+               
+                color: #FFF;
+            
+            
+            }        
+        
+        
+            .digitspan{
+                color: #FA4000;
+            }
+            .ReBtn2{
+                background: #000 !important;
+                margin-top: 1rem;
+            } 
+            .ReBtn2:hover{
+                background: #FA4000 !important;
+            }
+            .grouprow{
+                display: flex;
+            }
+            .DoubleRect1{
+        
+                width: 20%;
+                height: auto;
+           margin: -2% 0 10% 78%;     
+        
+                
+                 }   
+        
+        
+
+
+
+
+
+
+}
+
+
+
+@media (min-width:1201px) and (max-width:1534px){
+
+
+
+    .connctWithUsCf{
+
+        display: flex;
+        flex-direction: column;
+        margin: 10rem 0 0 0;
+        padding: 4rem auto 4rem auto;
+        
+        }
+        
+        .Vector8{
+            width:40%;
+            height: auto;
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 5rem auto 0rem auto;
+            z-index: 1;    
+        }
+        
+        
+        .maindiv{
+        
+            position: relative;
+            margin: -.5rem auto 0 auto;
+            width:90%;
+            height: auto;
+            
+            background-color: #373737;
+            border-radius: 2rem;
+            z-index: 2;
+         
+        }
+        
+        
+        .patternAYR{
+            width: 90%;
+            height: auto;
+            margin:7rem 0 2% -.9%;
+        }
+        
+        
+        .text{
+            width:90%;
+            justify-content: center;
+            margin: 30% 0 0 5%;
+        
+            color: white;
+            }
+        
+            .ReadyHead{
+                width: 90%;
+                font-size: 330%;
+                font-weight:bold;
+            }
+            .ayrgraph{
+                width:90%;
+                font-size: 180%;
+                margin-top: 2rem;
+               
+                color: #FFF;
+            
+            
+            }        
+        
+        
+            .digitspan{
+                color: #FA4000;
+            }
+            .ReBtn2{
+                background: #000 !important;
+                margin-top: 2rem;
+            } 
+            .ReBtn2:hover{
+                background: #FA4000 !important;
+            }
+            .grouprow{
+                display: flex;
+            }
+            .DoubleRect1{
+        
+                width: 20%;
+                height: auto;
+           margin: -2% 0 10% 78%;     
+        
+                
+                 }   
+                }
+        
+
+
+
+
+

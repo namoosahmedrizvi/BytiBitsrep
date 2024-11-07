@@ -1,0 +1,1623 @@
+#About{
+
+    width: 95% !important ;
+    background-color: #f4efec !important ;
+    margin: 0 auto !important ;
+    border-radius: 100px 100px 0 0 !important ;
+}
+
+.AboutBanner{
+    width: 100%  !important ;
+    height: auto  !important ;
+    margin: 0 0 0 auto !important ;
+    padding: 0 !important ;
+    border-radius: 100px 100px 0 0 !important ;
+    
+}
+
+.aboutBanText{
+
+ width: 70% !important ;
+  height: 170px !important ;
+  margin:-170px auto 0 auto !important ;
+  background-color:rgba(116, 107, 101, 0.4) !important ;
+  border-radius: 30px 30px !important ;
+
+  text-align: center !important ;
+
+}
+
+
+
+.BanImgDiv{
+    display: flex !important ;
+    flex-direction: column !important ;
+    justify-items: center !important ;
+    align-items: center !important ;
+    position: relative !important ;
+    z-index: 0 !important ;
+  }
+  .textBan{
+    display: flex !important ;
+    flex-direction: column !important ;
+    justify-items: center !important ;
+    align-items: center !important ;
+    position:absolute !important ;
+    z-index: 1 !important ;
+    margin: 430px auto 0 0% !important ;
+    text-align: center !important ;
+  }
+
+
+  
+  .TextBan{
+    font-size: 1.5rem !important ;
+    font-weight: 500 !important ;
+    color: #FFFF !important ;
+    margin-top: .5rem !important ;
+    }
+    
+  
+  
+  
+    .btnBan{
+      font-size: 1rem !important ;
+      color: white !important ;
+      border: none !important ;
+      background-color:#000000 !important ;
+      padding: .5rem 1rem !important ;
+      font-weight: 400 !important ;
+      animation: scroll-btn 3s linear  !important ;
+      border-radius: 8px !important ;
+      margin: 0rem 0 0 0 !important ;
+    }
+    
+    .btnBan:hover{
+      background-color: #ec6608 !important ;
+      color: white !important ;
+    }
+  
+
+
+ .aboutimg1{
+    max-width:100%  !important ;
+    height: auto  !important ;
+    border-radius: 162px !important ;
+margin:1rem 0 1rem 0 !important ;
+ }
+
+
+ .textsm{
+    font-size: 13px !important ;
+    font-weight: 500 !important ;
+    margin: 1rem 0 0 0 !important ;
+ }
+
+ .TextHead{
+        font-size: 2rem !important ;
+    font-weight: 600 !important ;
+    margin-top: -100px auto 2rem auto !important ;
+ }
+ .subHead{
+    font-size: 1.6rem !important ;
+    font-weight: 600 !important ;
+    margin-top: -100px auto 2rem auto !important ;
+    color: #ec6608 !important ;
+ }
+ .goal{
+    color: #ec6608 !important  ;
+ }
+
+ .subText{
+    
+    font-size: 14.5px !important ;
+ }
+  .HeadingBan{
+    
+    font-size:3.5rem !important ;
+    font-weight:700 !important ;
+   
+    color: #ec6608 !important ;
+    margin: 0 auto !important ;
+    text-align: center !important ;
+  }
+
+.WelcHeading{
+    font-size:4.2rem  !important ;
+    font-weight:600  !important ;
+    
+    color: #191919 !important ;
+    text-align: center !important ;
+    text-transform:uppercase !important ;
+    margin: -0.5rem 0 0 0 !important ;
+}
+.RectangleWt{
+    width: 3.45rem !important ;
+    height: 2rem !important ;
+    margin:1.5rem 0 0 63.8% !important ;
+}
+
+.pioneering{
+    font-size: 1.5rem !important ;
+    font-weight: 400 !important ;
+    text-align: center !important ;
+}
+
+
+.Settings{
+
+margin-top: 5rem !important ;
+
+}
+
+.teXt{
+
+width:80% !important ;
+height: 27.375rem !important ;
+background-color: #FFF3EB !important ;
+margin:-38rem auto 0 auto !important ;
+border-radius: 2rem !important ;
+
+box-shadow: 2rem 2rem 2rem 2rem rgba(0, 0, 0, 0.2) !important ;
+
+
+
+
+}
+
+.WtPattren{
+    width:28.34rem !important ;
+    height: 39rem !important ;
+}
+
+.Rectangle2{
+    width:8.75rem !important ;
+    height:8rem  !important ;
+    margin: -16.5rem 0 0 85% !important ;   
+
+}
+
+.Vector6{
+    width:8.25rem !important  ;
+    height:8.87rem !important  ;
+
+    margin:-46.5rem 0 0 71% !important ;
+    
+    
+
+}
+
+.Girl{
+    width:29rem !important ;
+    height: 35.38rem !important ;
+    margin:-8.1rem 0 0 55% !important ;
+    
+}
+
+
+.texting{
+
+    margin: -25rem 0 0 2rem !important ;
+    
+}
+.headingAll{
+   
+    font-size: 3.3rem !important ;
+    font-weight: 800 !important ;
+    
+}
+
+.peraGraph{
+    width: 30rem !important ;
+    font-size: 1.2rem !important ;
+    font-weight: 400 !important ;
+}
+
+.aboutimg2{
+    width:90%  !important ;
+    height: auto  !important ;
+    margin: -60% 0 0 40% !important ;
+  
+}
+
+.aboutimg3{
+    width:80% !important  ;
+    height: auto !important  ;
+    display: flex !important ;
+    align-items: flex-end !important ;
+    justify-content:flex-end !important ;
+    margin :50px 0 0 45% !important ;
+    
+   
+}
+
+
+.writing{
+    width: 690px !important ;
+    margin: 30% 0 0 20% !important ;
+}
+
+.ourStory{
+    font-size: 3.5rem !important ;
+    font-weight: 600 !important ;
+
+}
+.St{
+    color: #ec6608 !important ;
+}
+
+.story{
+    font-size: 1rem !important ;
+}
+
+
+.AboutBanner2{
+
+display: flex !important ;
+justify-content: center !important ;
+align-items: center !important ;
+width: 85% !important  ;
+height: auto !important  ;
+margin: 0 0  0 60% !important ;
+
+
+}
+
+.TextBox{
+    width: 450px !important ;
+    background-color: transparent !important ;
+    margin: 100px 0 0 0% !important ;
+}
+
+.accordion-item{
+    background-color: transparent !important ;
+    border: none !important ;
+
+
+}
+.accordion-header{
+    background-color:transparent !important ;
+border: none !important  ;
+
+
+}
+.collapsed{
+    background-color:transparent  !important ;
+border: none  !important ;
+
+}
+.button{
+    background-color:transparent  !important ;
+border: none !important  ;
+
+}
+.setT{
+    margin-left: 1rem  !important ;
+}
+
+.checkMark{
+    background-color: black !important ;
+}
+.tabHead{
+    margin: 1rem  0  0.5rem  0 !important ;
+}
+
+.pp{
+    font-weight: 600 !important ;
+}
+
+.suc{
+    color: #ec6608 !important ;
+
+}
+
+.ban4{
+    width: 100% !important ;
+    height: auto !important ;
+    background-color: #FFFF !important ;
+    
+}
+.ban4Head{
+    text-align: center !important ;
+    font-weight: 700 !important ;
+}
+
+.ban4Text{
+
+text-align: center !important ;
+width: 80% !important ;
+margin: 0 auto !important ;
+
+
+
+}
+
+.head{
+    margin: 0 0 0 10px !important ;
+    color: #ec6608 !important ;
+   
+}
+
+.cardban4{
+    width: 100% !important ;
+    font-size: 14px !important ;
+    margin: 0 auto !important ;
+    height:200px !important ;
+    border: none !important ;
+    border-radius: 0 !important ;
+    padding: 10px !important ;
+    box-shadow: #000000 !important ;
+    background-color: #F4EFEC !important ;
+
+}
+
+.val{
+    color:#ec6608 !important ;
+}
+
+
+.head{
+    margin-top: 5rem !important ;
+}
+    .headBan4{
+        font-size:3rem !important ;
+        font-weight: 600 !important ;
+       
+        margin:  0 auto 2rem auto !important ;
+    }
+
+.textBan4{
+    width: 80% !important ;
+    margin: 0 auto !important ;
+    text-align: center !important ;
+
+}
+.textSm4{
+    font-size: 1rem !important ;
+}
+
+@media (max-width:500px){
+
+
+    .aboutBanText{
+
+        width: 70% !important ;
+         height: 100px !important ;
+         margin:-100px auto 0 auto !important ;
+         background-color:rgba(116, 107, 101, 0.4) !important ;
+         border-radius: 30px 30px !important ;
+       
+         text-align: center !important ;
+       
+       }
+       
+
+
+
+
+    .HeadingBan{
+        font-size:1rem !important ;
+        margin-top: 10px  !important ;
+      }
+    .TextBan{
+      font-size:7px !important ;
+
+    }
+  
+  .textBan{
+    margin-top: 20px !important ;
+  }
+
+
+  
+    .WelcHeading{
+        font-size:2rem  !important ;
+        font-weight:600  !important ;
+        
+        color: #191919 !important ;
+        text-align: center !important ;
+        text-transform:uppercase !important ;
+        margin: -0.5rem 0 0rem 0 !important ;
+    }
+    .RectangleWt{
+        width:1rem  !important ;
+        height: auto  !important ;
+        margin:2rem 0 0.5rem 73% !important ;
+    }
+    
+    .pioneering{
+        font-size: 0.8rem !important ;
+        font-weight: 400 !important ;
+        text-align: center !important ;
+        margin-bottom: 2rem !important ;
+    }
+
+
+    .Settings{
+    
+    margin: 2rem 0 0 1rem !important ;
+        
+        }
+        
+        .btnBan{
+            font-size: 8px !important;
+            margin-top: -20px !important;
+        }
+
+    .WtPattren{
+        width: 8rem  !important ;
+        height: 11rem  !important ;
+        margin: 2rem 0 -4rem -2.5rem !important ;
+ 
+     }
+
+     .Vector6{
+        width:4.25rem !important ;
+        height:4.87rem !important ;
+        margin: -15rem 0 0 67% !important ;
+    }
+
+    .Rectangle2{
+      
+        width:3.1rem !important ;
+        height:auto  !important ;
+        margin: 2rem 0 2rem 88% !important ;
+      
+    
+    }
+    
+    .ban4 {
+        padding: 0 0 7rem 0 !important ;
+    }
+  .cardban4 {
+
+    height: 16rem !important ;
+  }
+    
+   
+    .teXt{
+ 
+    width:95% !important ;
+   height:10rem !important ;
+    background-color: #FFF3EB !important ;
+    margin:-12rem auto 0 auto !important ;
+    border-radius: 2.5rem !important ;
+    
+    box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem rgba(0, 0, 0, 0.2) !important ;
+    
+    
+    
+    
+
+
+    }
+
+
+
+    .accordion-body{
+        width:280px !important;
+        font-size: 10px !important;
+    }
+    .about1{
+        display: flex !important ;
+        flex-direction: column !important ;
+        justify-content: center !important ;
+        align-items: center !important ;
+        margin: 0 auto !important ;
+    }
+ 
+    .textsm{
+        font-size: 8px !important ;
+        font-weight: 500 !important ;
+        margin: 1rem 0 0 0 !important ;
+     }
+    
+     .pp{
+        width: 300px !important;
+     }
+     .TextHead{
+        font-size: 1rem !important ;
+        font-weight: 600 !important ;
+        margin-top: -100px auto 2rem auto !important ;
+     }
+     .subHead{
+        font-size: 1rem !important ;
+        font-weight: 600 !important ;
+        margin-top: -100px auto 2rem auto !important ;
+        color: #ec6608 !important ;
+        text-align: center !important ;
+     }
+     .goal{
+        color: #ec6608  !important ;
+     }
+    
+     .subText{
+        font-size: 14.5px !important ;
+        text-align: center !important ;
+     }
+    
+    
+  
+    .aboutimg2{
+        width:70%  !important ;
+        justify-content: center !important ;
+        align-items: center !important ;
+        height: auto  !important ;
+        margin: -190% auto 0 20% !important ;
+      
+    }
+    
+    .aboutimg3{
+        width:80%  !important ;
+        height: auto  !important ;
+        display: flex !important ;
+        align-items: center !important ;
+        justify-content:center !important ;
+        margin :-100% auto 0 auto !important ;
+        display: none !important ;
+        
+       
+    }
+    
+    
+    .writing{
+        width:90% !important ;
+        margin: 100% auto 0 auto !important ;
+        padding: 2rem 0 !important ;
+    }
+    
+    .ourStory{
+        font-size: 2.5rem !important ;
+        font-weight: 600 !important ;
+    
+    }
+    .St{
+        color: #ec6608 !important ;
+    }
+    
+    .story{
+        font-size:10px !important ;
+    }
+    
+.AboutBanner2{
+    display: none !important ;
+}
+
+.TextBox{
+    margin: 0 auto !important ;
+}
+
+
+
+
+.ban4r{
+    display: flex !important ;
+    flex-direction: column !important ;
+    justify-content:center  !important ;
+    align-items: center !important ;
+    margin: 0 auto !important ;
+    padding: 0  !important ;
+}
+.head{
+    margin-top: 5rem !important ;
+}
+    
+}
+
+@media (min-width:500px) and (max-width:767px){
+
+.Welcome-Con{
+    margin-bottom: 10rem !important ;
+}
+
+.AboutBanner{
+    width: 100%  !important ;
+    height: auto  !important ;
+    margin: 0 0 0 auto !important ;
+    padding: 0 !important ;
+    border-radius: 100px 100px 0 0 !important ;
+    
+}
+
+
+.aboutBanText{
+
+    width: 80% !important ;
+     height: 90px !important ;
+     margin:-90px auto 0 auto !important ;
+     background-color:rgba(116, 107, 101, 0.4) !important ;
+     border-radius: 30px 30px !important ;
+   
+     text-align: center !important ;
+   
+   }
+   
+   
+   
+
+.textBan{
+    margin: 60px 0 0 0 !important ;
+}
+
+.HeadingBan{
+    font-size:1rem !important ;
+    margin-top: 0rem !important ;
+  }
+.TextBan{
+  font-size:10px !important ;
+  margin-top: 0px !important;
+}
+
+
+.btnBan{
+    
+font-size: 8px !important;
+margin-top: 0rem !important;
+
+}
+
+
+
+.textsm{
+    font-size: 10px !important ;
+    font-weight: 500 !important ;
+    margin: 1rem 0 0 0 !important ;
+ }
+
+ .TextHead{
+    font-size: 1.2rem !important ;
+    font-weight: 600 !important ;
+    margin-top: -100px auto 2rem auto !important ;
+ }
+ .subHead{
+    font-size: 1.2rem !important ;
+    font-weight: 600 !important ;
+    margin-top: -100px auto 2rem auto !important ;
+    color: #ec6608 !important ;
+    text-align: center !important ;
+ }
+ .goal{
+    color: #ec6608  !important ;
+ }
+
+ .subText{
+    font-size: 14.5px !important ;
+    text-align: center !important ;
+ }
+
+
+
+
+
+
+
+
+
+    .WelcHeading{
+        font-size:2.4rem  !important ;
+        font-weight:600  !important ;
+        
+        color: #191919 !important ;
+        text-align: center !important ;
+        text-transform:uppercase !important ;
+        margin: -0.5rem 0 0rem 0 !important ;
+    }
+    .RectangleWt{
+        width:1.3rem  !important ;
+        height:auto!important ;
+        margin:2rem 0 0.5rem 73% !important ;
+    }
+    
+    .pioneering{
+        font-size: 0.8rem !important ;
+        font-weight: 400 !important ;
+        text-align: center !important ;
+        margin-bottom: 5rem !important ;
+    }
+
+
+ 
+    .Settings{
+    
+    margin: 2rem 0 0 1rem !important ;
+        
+        }
+        
+
+    .WtPattren{
+        width: 8rem  !important ;
+        height: 11rem  !important ;
+        margin: 0 0 -5rem -2rem !important ;
+ 
+     }
+
+     .Vector6{
+        width:4.25rem  !important ;
+        height:4.87rem  !important ;
+        margin: -15rem 0 0 76% !important ;
+    }
+
+    .Rectangle2{
+      
+        width:4.1rem  !important ;
+        height:auto  !important ;
+        margin: 2.5rem 0 2rem 88% !important ;
+      
+    
+    }
+    
+    
+    
+   
+    .teXt{
+ 
+    width:95% !important ;
+   height:10rem !important ;
+    background-color: #FFF3EB !important ;
+    margin:-12rem auto 0 auto !important ;
+    border-radius: 2.5rem !important ;
+    
+    box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem rgba(0, 0, 0, 0.2) !important ;
+    
+    
+    
+    
+    }
+    
+ 
+    
+  
+  
+    .Girl{
+       
+    width:10rem !important ;
+    height: 12.85rem !important ;
+       
+        margin:-3rem 0 0 62% !important ;
+        
+    }
+    
+    .texting{
+        
+
+        margin: -9rem 0 0 0 !important ;
+    }
+   
+    .headingAll{
+     
+       font-size: 1.5rem  !important ;
+       font-weight: 500 !important ;
+      
+        
+    }
+    
+    .peraGraph{
+        width: 60% !important ;
+        font-size:0.7rem !important ;
+        font-weight: 400 !important ;
+        margin-top: -1rem !important ;
+    
+        
+        
+       
+    }
+
+    .peraGraph1{
+        display: none !important ;
+    }
+    
+    .peraGraph2{
+        display: none !important ;
+    }
+
+
+
+
+
+    .aboutimg2{
+        width:70%  !important ;
+        justify-content: center !important ;
+        align-items: center !important ;
+        height: auto  !important ;
+        margin: -190% auto 0 20% !important ;
+      
+    }
+    
+    .aboutimg3{
+        width:80%  !important ;
+        height: auto  !important ;
+        display: flex !important ;
+        align-items: center !important ;
+        justify-content:center !important ;
+        margin :-100% auto 0 auto !important ;
+        display: none !important ;
+        
+       
+    }
+    
+    
+    .writing{
+        width:90% !important ;
+        margin: 100% auto 0 auto !important ;
+        padding: 2rem 0 !important ;
+    }
+    
+    .ourStory{
+        font-size: 2.5rem !important ;
+        font-weight: 600 !important ;
+    
+    }
+    .St{
+        color: #ec6608 !important ;
+    }
+    
+    .story{
+        font-size:13px !important ;
+    }
+    
+.AboutBanner2{
+    
+    width: 100% !important ;
+    height: auto !important ;
+    margin: 0 auto !important ;
+}
+
+.TextBox{
+    width: 70% !important ;
+    height: auto !important ;
+    margin: -70% auto 0 auto !important ;
+}
+
+
+
+
+.ban4r{
+    display: flex !important ;
+    flex-direction: column !important ;
+    justify-content:center  !important ;
+    align-items: center !important ;
+    margin: 0 auto !important ;
+    padding: 0  !important ;
+}
+.head{
+    margin-top: 5rem !important ;
+}
+    
+
+
+
+
+    
+}
+
+
+
+
+
+@media (min-width:768px) and (max-width:990px){
+
+.textBan{
+    margin:280px 0 0 0 !important ;
+}
+    .HeadingBan{
+        font-size:2rem !important ;
+      }
+
+
+    .TextBan{
+      font-size: 1rem !important ;
+    }
+
+
+    .ban4 {
+        padding: 0 0 7rem 0 !important ;
+    }
+  .cardban4 {
+
+    height: 16rem !important ;
+  }
+
+    .WelcHeading{
+        font-size:3rem  !important ;
+        font-weight:600  !important ;
+        
+        color: #191919 !important ;
+        text-align: center !important ;
+        text-transform:uppercase !important ;
+        margin: 0rem 0 0rem 0 !important ;
+    }
+    .RectangleWt{
+        width:1.5rem  !important ;
+        height: auto  !important ;
+        margin:2rem 0 0 67%  !important ;
+    }
+    
+    .pioneering{
+        font-size: 1rem !important ;
+        font-weight: 400 !important ;
+        text-align: center !important ;
+        margin-bottom: 8rem !important ;
+    }
+
+
+ 
+    .Settings{
+    
+    margin: 2rem 0 0 1rem !important ;
+        
+        }
+        
+
+    .WtPattren{
+        width: 11rem  !important ;
+        height: 18rem  !important ;
+        margin: 0rem 0 -5rem -3.5rem !important ;
+ 
+     }
+
+     .Vector6{
+        width:7.25rem !important ;
+        height:7.87rem !important ;
+        margin: -18rem 0 0 72% !important ;
+    }
+
+    .Rectangle2{
+      
+        width:5.8rem !important ;
+        height:4rem  !important ;
+        margin: 0rem 0 -5rem 90% !important ;
+      
+    
+    }
+    
+    
+    
+   
+    .teXt{
+ 
+    width:95% !important ;
+   height:16rem !important ;
+    background-color: #FFF3EB !important ;
+    margin:-12rem auto 0 auto !important ;
+    border-radius: 2.5rem !important ;
+    
+    box-shadow: 0.5rem 0.5rem 1rem 0.5rem rgba(0, 0, 0, 0.2) !important ;
+    
+    
+    
+    
+    }
+    
+ 
+    
+  
+  
+    .Girl{
+       
+    width:16.8rem !important ;
+    height: 20rem !important ;
+       
+        margin:-4.1rem 0 0 63% !important ;
+        
+    }
+    
+    .texting{
+width:30rem !important ;
+        margin: -14rem 0 0 0 !important ;
+    }
+   
+    .headingAll{
+     
+       font-size: 2.5rem  !important ;
+       font-weight: 600 !important ;
+       font-family: arial !important ;
+      
+        
+    }
+    
+    .peraGraph{
+       width:90% !important ;
+        font-size: 0.7rem !important ;
+        font-weight: 500 !important ;
+    
+        
+        
+       
+    }
+
+
+
+    
+    .peraGraph1{
+        display: block !important ;
+    }
+    
+    .peraGraph2{
+        display:block !important ;
+    }
+    
+
+    .textsm{
+        font-size: 10px !important ;
+        font-weight: 500 !important ;
+        margin: 1rem 0 0 0 !important ;
+     }
+    
+     .TextHead{
+        font-size: 1rem !important ;
+        font-weight: 600 !important ;
+        margin-top: -100px auto 2rem auto !important ;
+     }
+     .subHead{
+        font-size: 1rem !important ;
+        font-weight: 600 !important ;
+        margin-top: -100px auto 2rem auto !important ;
+        color: #ec6608 !important ;
+        
+     }
+     .goal{
+        color: #ec6608 !important ; 
+     }
+    
+     .subText{
+        font-size: 12px !important ;
+        
+     }
+    
+    
+
+
+
+     .aboutimg2{
+        width:180%  !important ;
+        height: auto  !important ;
+        margin: -280% 0 0  -120% !important ;
+      
+    }
+    
+    .aboutimg3{
+        width:200%  !important ;
+        height: auto  !important ;
+        margin: 60% 0 0 -120%
+        
+        
+       
+    }
+    
+    
+    .writing{
+        width:150% !important ;
+        margin: 150% auto 0 20% !important ;
+        padding: 2rem 0 !important ;
+    }
+    
+    .ourStory{
+        font-size: 2.5rem !important ;
+        font-weight: 600 !important ;
+    
+    }
+    .St{
+        color: #ec6608 !important ;
+    }
+    
+    .story{
+        font-size:16px !important ;
+    }
+    
+.AboutBanner2{
+    
+    width: 140%  !important ;
+    height: auto  !important ;
+    display: flex !important ;
+    flex-direction: column !important ;
+    justify-content: center !important ;
+    justify-items: center !important ;
+    align-content: center !important ;
+    align-items: center !important ;
+    margin: 0 0 0 15% !important ;
+}
+
+.TextBox{
+    width: 100% !important ;
+    height: auto !important ;
+    margin:30% 0 0 -20% !important ;
+}
+
+.pp{
+    font-size: 1.5rem !important ;
+}
+
+.setT{
+    font-size:1rem !important ;
+    font-weight:700 !important ;
+    margin: 0 !important ;
+}
+
+.ban4r{
+    display: flex !important ;
+    flex-direction: column !important ;
+    justify-content:center  !important ;
+    align-items: center !important ;
+    margin: 0 auto !important ;
+    padding: 0  !important ;
+}
+
+
+.headBan4{
+    font-size: 4rem !important ;
+    text-align: center !important ;
+}
+
+
+    
+
+
+    
+}
+
+
+
+
+@media (min-width:991px) and (max-width:1200px){
+.AboutBanner{
+    margin: -180px 0 0 0 !important ;
+}
+.textBan{
+    margin:20% 0 0 0 !important ;
+}
+    .HeadingBan{
+        font-size:2.5rem !important ;
+      }
+    .TextBan{
+      font-size: 1rem !important ;
+    }
+  
+
+.Welcome-Con{
+    padding: 10rem 0rem !important ;
+}
+    .WelcHeading{
+        font-size:3.5rem  !important ;
+        font-weight:600  !important ;
+      
+        color: #191919 !important ;
+        text-align: center !important ;
+        text-transform:uppercase !important ;
+        margin: 0rem 0 0rem 0 !important ;
+    }
+    .RectangleWt{
+        width:1.5rem  !important ;
+        height:auto  !important ;
+        margin:2rem 0 0 68%  !important ;
+    }
+    
+    .pioneering{
+        font-size: 1.3rem !important ;
+        font-weight: 400 !important ;
+        text-align: center !important ;
+        margin-bottom: 8rem !important ;
+    }
+
+
+ 
+    .Settings{
+    
+    margin: 2rem 0 0 1rem !important ;
+        
+        }
+        
+
+    .WtPattren{
+        width: 13rem  !important ;
+        height: 19rem  !important ;
+        margin: 0rem 0 -7rem -3.5rem !important ;
+ 
+     }
+
+     .Vector6{
+        width:7.25rem !important ;
+        height:7.87rem !important ;
+        margin: -18rem 0 0 74% !important ;
+    }
+
+    .Rectangle2{
+      
+        width:6.1rem !important ;
+        height:4.7rem  !important ;
+        margin: 1rem 0 -5rem 90% !important ;
+      
+    
+    }
+    
+    
+    
+   
+    .teXt{
+ 
+    width:95% !important ;
+   height:16rem !important ;
+    background-color: #FFF3EB !important ;
+    margin:-12rem auto 0 auto !important ;
+    border-radius: 2.5rem !important ;
+    
+    box-shadow: 0.5rem 0.5rem 1rem 0.5rem rgba(0, 0, 0, 0.2) !important ;
+    
+    
+    
+    
+    }
+    
+ 
+    
+  
+  
+    .Girl{
+       
+    width:16.8rem !important ;
+    height: 20rem !important ;
+       
+        margin:-4.1rem 0 0 65.5% !important ;
+        
+    }
+    
+    .texting{
+width:20rem !important ;
+        margin: -14rem 0 0 0 !important ;
+    }
+   
+    .headingAll{
+     
+       font-size: 2.1rem !important ;
+       font-weight: 600 !important ;
+       font-family: Arial !important ;
+      
+        
+    }
+    
+    .peraGraph{
+       
+        font-size:11px !important ;
+        font-weight: 500 !important ;
+    
+        
+        
+       
+    }
+
+
+
+    .textsm{
+        font-size: 10px !important ;
+        font-weight: 500 !important ;
+        margin: 1rem 0 0 0 !important ;
+     }
+    
+     .TextHead{
+        width:400px !important ;
+        font-size: 1.5rem !important ;
+        font-weight: 600 !important ;
+        margin-top: -100px auto 2rem auto !important ;
+     }
+     .subHead{
+        font-size: 1rem !important ;
+        font-weight: 600 !important ;
+        margin-top: -100px auto 2rem auto !important ;
+        color: #ec6608 !important ;
+        
+     }
+     .goal{
+        color: #ec6608 !important ;
+     }
+    
+     .subText{
+        width: 370px !important ;
+        font-size: 12px !important ;
+        margin: 0 auto !important ;
+        
+     }
+    
+    
+
+
+
+     .aboutimg2{
+        width:100%  !important ;
+        height: auto !important ;
+        margin: -75% 0 0 20% !important ;
+       
+      
+    }
+    
+    .aboutimg3{
+        width:100%  !important ;
+        height: auto  !important ;
+        margin: 5% 0 0 20% !important ;
+        
+        
+       
+    }
+    
+    
+    .writing{
+        width:100% !important ;
+        margin: 10% auto 0 8% !important ;
+        padding: 2rem 0 !important ;
+    }
+    
+    .ourStory{
+        font-size: 2.5rem !important ;
+        font-weight: 600 !important ;
+    
+    }
+    .St{
+        color: #ec6608 !important ;
+    }
+    
+    .story{
+        font-size:14px !important ;
+    }
+    
+.AboutBanner2{
+    
+    width: 140%  !important ;
+    height: auto  !important ;
+    display: flex !important ;
+    flex-direction: column !important ;
+    justify-content: center !important ;
+    justify-items: center !important ;
+    align-content: center !important ;
+    align-items: center !important ;
+    margin: 0 0 0 15% !important ;
+}
+
+.TextBox{
+    width: 100% !important ;
+    height: auto !important ;
+    margin:30% 0 0 -20% !important ;
+}
+
+.pp{
+    font-size: 1.5rem !important ;
+}
+
+.setT{
+    font-size:1rem !important ;
+    font-weight:700 !important ;
+    margin: 0 !important ;
+}
+
+.ban4r{
+    display: flex !important ;
+    flex-direction: column !important ;
+    justify-content:center  !important ;
+    align-items: center !important ;
+    margin: 0 auto !important ;
+    padding: 0  !important ;
+}
+
+
+.headBan4{
+    font-size: 4rem !important ;
+    text-align: center !important ;
+}
+
+
+    
+.cardban4{
+    width: 100% !important ;
+    height: 17rem !important ;
+}
+
+
+
+    
+}
+
+
+
+
+
+@media (min-width:1201px) and (max-width:1534px){
+
+    .AboutBanner{
+        margin: -180px 0 0 0 !important ;
+    }
+    .textBan{
+        margin:25% 0 0 0 !important ;
+    }
+        .HeadingBan{
+            font-size:3rem !important ;
+          }
+        .TextBan{
+          font-size: 1.5rem !important ;
+          margin-top: 0.8rem !important ;
+        }
+      
+
+.Welcome-Con{
+    padding: 10rem 0rem !important ;
+}
+.WelcHeading{
+    font-size:4.5rem  !important ;
+    font-weight:600  !important ;
+    
+    color: #191919 !important ;
+    text-align: center !important ;
+    text-transform:uppercase !important ;
+    margin: -0.8rem 0 0 0 !important ;
+}
+.RectangleWt{
+    width: 2.5rem !important ;
+    height: auto !important ;
+    margin:2rem 0 .5rem 67.2% !important ;
+    
+}
+
+.pioneering{
+    font-size: 1.5rem !important ;
+    font-weight: 400 !important ;
+    text-align: center !important ;
+}
+
+
+.Settings{
+
+margin-top: 5rem !important ;
+
+}
+
+.teXt{
+
+width:90% !important ;
+height: 27.375rem !important ;
+background-color: #FFF3EB !important ;
+margin:-38rem auto 0 auto !important ;
+border-radius: 2.5rem !important ;
+
+box-shadow: 2rem 2rem 2rem 2rem rgba(0, 0, 0, 0.2) !important ;
+
+
+
+
+}
+
+.WtPattren{
+    width:26.34rem !important ;
+    height: 36rem !important ;
+    margin: 0rem 0 6rem -4rem !important ;
+}
+
+.Rectangle2{
+    width:8.75rem !important ;
+    height:8rem  !important ;
+    margin: -16.5rem 0 0 88% !important ;   
+
+}
+
+.Vector6{
+    width:9.25rem !important ;
+    height:7.87rem !important ;
+
+    margin:-45.5rem 0 0 75% !important ;
+    
+    
+
+}
+
+.Girl{
+    width:29rem !important ;
+    height: 35rem !important ;
+    margin:-7.75rem 0 0 59% !important ;
+    
+}
+
+
+.texting{
+
+    margin: -25rem 0 0 2rem !important ;
+    
+}
+.headingAll{
+    font-family:trap !important ;
+    font-size: 3.3rem !important ;
+    font-weight: 800 !important ;
+    
+}
+
+.peraGraph{
+    width:65% !important ;
+    font-size: 1rem !important ;
+    font-weight: 500 !important ;
+}
+
+
+.textsm{
+    font-size: 14px !important ;
+    font-weight: 500 !important ;
+    margin: 1rem 0 0 0 !important ;
+ }
+
+ .TextHead{
+    width: 500px !important ;
+    font-weight: 600 !important ;
+    margin-top: -100px auto 2rem auto !important ;
+ }
+ .subHead{
+    
+    font-size: 1.3rem !important ;
+    font-weight: 600 !important ;
+    margin-top: -100px auto 2rem auto !important ;
+    color: #ec6608 !important ;
+    
+ }
+ .goal{
+    color: #ec6608 !important ;
+ }
+
+ .subText{
+    width:450px !important ;
+    font-size: 12.5px !important ;
+    
+ }
+
+
+ .cardban4{
+    width: 100% !important ;
+    font-size: 14px !important ;
+    margin: 0 auto !important ;
+    height:12rem !important ;
+    border: none !important ;
+    border-radius: 0 !important ;
+    padding: 10px !important ;
+    box-shadow: #000000 !important ;
+    background-color: #F4EFEC !important ;
+
+}
+
+
+}
+
+
+@media (min-width:1535px){
+
+    .ban4 {
+        padding: 0 0 7rem 0 !important ;
+    }
+  .cardban4 {
+
+    height: 16rem !important ;
+  }
+    .textsm{
+
+        font-size: 13px !important ;
+        font-weight: 500 !important ;
+        margin: 1rem 0 1rem 0 !important ;
+     }
+    
+     .TextHead{
+        width: 500px !important ;
+            font-size: 2rem !important ;
+        font-weight: 600 !important ;
+        margin-top: -100px auto 2rem auto !important ;
+     }
+     .subHead{
+        font-size: 1.6rem !important ;
+        font-weight: 600 !important ;
+        margin-top: -100px auto 2rem auto !important ;
+        color: #ec6608 !important ;
+     }
+     .goal{
+        color: #ec6608 !important ;
+     }
+    
+     .subText{
+        width:520px !important ;
+        font-size: 14.5px !important ;
+     }
+    
+
+
+
+
+}
+

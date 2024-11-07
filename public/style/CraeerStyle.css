@@ -1,0 +1,425 @@
+
+.CarCon{
+  width: 100% !important;
+height: fit-content !important;
+padding: 4rem 0 6rem 0 !important;
+margin: 0 auto !important;
+
+}
+.CarRow1{
+  padding: 0rem 0 0 0 !important;
+}
+
+.CarHeRect{
+  width: 2rem !important;
+  height: auto !important;
+  margin-left: 85px !important;
+}
+
+.Carheading{
+  font-size:4rem !important;
+  font-weight: 700 !important;
+  text-align: center !important;
+}
+
+
+.ImgDiv {
+  width: 364px;
+  height: 537px;
+ 
+  overflow: hidden ; 
+  margin: 0rem auto 0 auto !important;
+  transition:height 0.3s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+}
+
+
+
+
+
+.image {
+  position: relative;
+  width: 364px !important;
+  height: 537px !important;
+  object-fit: cover; 
+  
+  border-radius: 40px !important;
+  
+}
+
+.ImgDiv:hover .image {
+  width: 364px !important;
+  height: 364px !important;
+  transform: scale(1);
+  border-radius: 40px !important;
+  
+}
+.Vector7 {
+  width: 25% !important;
+  height: auto !important;
+  margin: -0.65rem 0 -3rem 45% !important;
+}
+
+.StyRec {
+  width: 55% !important;
+  height: auto !important;
+  margin: -7rem 0 -5rem 28% !important;
+}
+
+
+
+
+.btnappl{
+  background-color: #FA4000 !important;
+  color: white;
+  font-weight: 600 !important;
+ 
+  cursor: pointer;
+}
+
+.btnappl:hover{
+  background-color: #f47044 !important;
+  color: white;
+  font-weight: 600 !important;
+}
+
+
+.ImgDiv1a{
+  margin-top: 2.5rem !important;
+}
+
+.ImgDiv2{
+  margin-top: 7rem !important;
+}
+.EditCont {
+  width: 20rem;
+  height: 7rem;
+  margin:0 auto  0  auto !important;
+}
+
+.Headings {
+  font-size: 15px !important;
+  font-weight: 700 !important;
+  margin-bottom: 1rem !important;
+}
+.textCont{
+  margin-top: 1.5rem !important;
+}
+.tech {
+  display: flex !important;
+  font-size: 0.8rem !important;
+  font-weight: bold !important;
+  justify-content: flex-end;
+  align-items: flex-end;
+
+  color: #FA4000;
+  margin-top: -1.8rem !important;
+}
+
+.tech2{
+  margin-top: -3rem !important;
+}
+
+.wD {
+  width: 1rem !important;
+  height: auto;
+  margin: 10px 8px 0 0 !important;
+}
+
+ 
+.SideModel{
+  margin: 100px 0 0  30%;
+}
+
+
+
+
+.form-control{
+  margin: 50px 0 0 0px !important;
+ }
+
+ .Growth{
+  margin-top: 30px !important;
+ }
+ .LTS{
+  font-size: 30px !important;
+  font-weight: 600 !important;
+ }
+
+ .hModal{
+  font-size: 20px !important;
+  font-weight: 600 !important;
+  margin-top: 40px !important;
+ }
+ .CheckBox{
+  margin-top: 40px !important;
+ }
+
+ @media (max-width:500px) {
+.CarCon{
+  margin: 0 auto !important;
+}
+  .CarHeRect{
+    width: 1rem !important;
+    height: auto !important;
+    margin-left: 35px !important;
+  }
+  
+  .Carheading{
+    font-size:2rem !important;
+    font-weight: 700 !important;
+    text-align: center !important;
+  }
+  .ImgDiv{
+
+    width:250px !important;
+    height: 380px !important;
+  }
+  
+  .image{
+    width:250px !important;
+    height: 380px !important;
+    
+  }
+  
+  .ImgDiv:hover .image {
+    width: 250px !important;
+    height: 250px !important;
+    transform: scale(1);
+    border-radius: 40px !important;
+    
+  }
+
+  .EditCont {
+    width: 220px !important;
+    height: 100px !important;
+    margin:0 auto  0  auto !important;
+  }
+  
+  .Headings{
+    font-size: 12px !important;
+    font-weight: bold !important;
+  }
+  
+  .textCont{
+font-size: 10px !important;
+margin-top: -1rem !important;
+
+
+  }
+
+  .textCont2{
+    margin-top: 1rem !important;
+  }
+  .btnappl{
+    margin-top: -.5rem !important;
+    font-size: 10px !important;
+  }
+
+  .btnappl1{
+    margin-top: -1rem !important;
+  }
+.tech{
+  font-size: 8px !important;
+  margin-top: -1.4rem  !important;
+
+}
+
+.tech2{
+  margin-top: -2.4rem  !important;
+}
+.wD{
+  width: 8px !important;
+  height: auto !important;
+}
+.StyRec{
+  margin-top: 2rem !important;
+}
+
+.Vector7{
+  margin-top: 2rem !important;
+}
+.SideModel{
+ 
+  width: 250px !important;
+  margin: 100px 0 0  20% !important;
+ }
+ }
+
+ 
+ @media (min-width:500px) and (max-width:767px) {
+  .CarCon{
+    width:95% !important;
+  height: fit-content !important;
+  padding: 4rem 0 6rem 0 !important;
+  margin: 0 auto !important;
+  
+  }
+
+  .CarHeRect{
+    width: 1rem !important;
+    height: auto !important;
+    margin-left: 105px !important;
+  }
+  
+  .Carheading{
+    font-size:2.6rem !important;
+    font-weight: 700 !important;
+    text-align: center !important;
+  }
+
+
+
+
+  .StyRec{
+    margin-top: 2rem !important;
+  }
+  
+  .Vector7{
+    margin-top: 2rem !important;
+  }
+  .SideModel{
+ 
+    width: 400px !important;
+    margin: 100px 0 0  25% !important;
+   }
+   }
+   
+ @media (min-width:768px) and (max-width:991px) {
+.ImgDiv{
+
+  width:350px !important;
+  height: 500px !important;
+}
+
+.image{
+  width:350px !important;
+  height: 500px !important;
+  border: 20px !important;
+}.ImgDiv:hover .image {
+  width: 350px !important;
+  height: 350px !important;
+  transform: scale(1);
+  border-radius: 40px !important;
+  
+}
+
+.ImgDiv1a{
+  margin-top:2rem !important;
+}
+
+.CarHeRect{
+  width: 1.5rem !important;
+  height: auto !important;
+  margin-left: 25px !important;
+}
+
+.Carheading{
+  font-size:2.5rem !important;
+  font-weight: 700 !important;
+  text-align: center !important;
+}
+
+
+
+
+
+  .StyRec{
+    margin-top: 2rem !important;
+  }
+  
+  .Vector7{
+    margin-top: 0rem !important;
+  }
+  
+  .textCont{
+    margin-top: -.5rem !important;
+  }
+
+  .btnappl{
+    margin-top: -0.5rem;
+  }
+  .SideModel{
+ 
+    width: 550px !important;
+    margin: 100px 0 0  25% !important;
+   }
+
+
+   }
+
+
+   @media (min-width:991px) and (max-width:1200px) {
+    .ImgDiv{
+    
+      width:300px !important;
+      height: 450px !important;
+    }
+    
+    .image{
+      width:300px !important;
+      height: 450px !important;
+      border: 20px !important;
+    }.ImgDiv:hover .image {
+      width: 300px !important;
+      height: 300px !important;
+      transform: scale(1);
+      border-radius: 40px !important;
+      
+    }
+      .StyRec{
+        margin-top: -5rem !important;
+      }
+      
+      .Vector7{
+        margin-top: 0rem !important;
+      }
+      
+      .textCont{
+        margin-top: -.5rem !important;
+      }
+    
+      .btnappl{
+        margin-top: -0.5rem;
+      }
+       }
+   @media (min-width:1200px) and (max-width:1534px) {
+    .ImgDiv{
+    
+      width:364px !important;
+      height: 537px !important;
+    }
+    
+    .image{
+      width:364px !important;
+      height: 537px !important;
+      border: 20px !important;
+    }.ImgDiv:hover .image {
+      width: 364px !important;
+      height: 364px !important;
+      transform: scale(1);
+      border-radius: 40px !important;
+      
+    }
+      .StyRec{
+        margin-top: -5rem !important;
+      }
+      
+      .Vector7{
+        margin-top: 0rem !important;
+      }
+      
+      .textCont{
+        margin-top: 0.5rem !important;
+      }
+    
+      .btnappl{
+        margin-top: -0.5rem;
+      }
+      .SideModel{
+ 
+        width: 650px !important;
+        margin: 100px 0 0  45% !important;
+       }
+    
+
+       }

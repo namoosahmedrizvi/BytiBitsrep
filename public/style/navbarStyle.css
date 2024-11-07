@@ -1,0 +1,98 @@
+.nav-item{
+    font-size: 1.3rem;
+    margin: 0 0 0 2rem;
+    font-weight: 600;
+    text-transform: capitalize;
+    
+}
+
+.nav-links{
+    
+    text-transform: capitalize;
+    
+}
+
+.modal{
+    width: 80% !important;
+    height: 1000px !important;
+    margin: 100px 0 0  40% !important;
+}
+
+.formLogo{
+    border-radius: 50% !important;
+}
+
+.LTS{
+    font-size: 3rem !important;
+    font-weight: 700 !important;
+}
+.UploadBtn{
+    width: 100%;
+    height: 40px;
+}
+.LogoImg{
+    width: 12rem !important;
+    height: auto;
+    margin: -3rem 0;
+}
+
+
+.navbar-nav{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    justify-items: end;
+    align-content: end;
+    margin: 0 0 0 0%;
+}
+
+@media (min-width:991px) and (max-width:1534px){
+    .nav-item{
+        font-size: 1.3rem;
+        margin: 0 0 0 0rem;
+        font-weight: 600;
+        
+    }
+    .navbar-nav{
+        display: flex;
+        justify-content: flex-start;
+        align-items:flex-start;
+        align-content: flex-start;
+        margin: 0 0 0 0%;
+    }
+    
+    
+    .modal{
+        width: 80% !important;
+        height: 650px !important;
+        margin: 50px 0 0  15% !important;
+       
+    }
+    
+}
+
+
+@media (max-width:991px){
+    .nav-item{
+        font-size: 1.3rem;
+        margin: 0 0 0 0rem;
+        font-weight: 600;
+        
+    }
+    .navbar-nav{
+        display: flex;
+        justify-content: flex-start;
+        align-items:flex-start;
+        align-content: flex-start;
+        margin: 0 0 0 0%;
+    }
+    
+    
+    .modal{
+        width: 80% !important;
+        height: 600px !important;
+        margin: 50px 0 0  15% !important;
+       
+    }
+    
+}

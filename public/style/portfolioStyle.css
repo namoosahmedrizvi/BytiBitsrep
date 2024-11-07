@@ -1,0 +1,257 @@
+.PortFolio{
+
+
+  text-align: center;
+ 
+  margin: -4rem 0 0 0 ;
+}
+
+#Portfolio{
+  width: 100%;
+  height: auto;
+  background-color: #F4EFEC;
+  padding: 4rem 0 !important;
+}
+.portSpring{
+width: 15% !important;
+height: auto !important;
+margin: -4rem 0 -4rem 78% !important;
+
+
+
+}
+
+
+.imgs{
+  display: flex;
+  
+  width: 4rem;
+  
+  margin: 1% 0 0 2rem;
+  
+  float: left;
+}
+.portHead{
+  font-size: 300% ;
+  font-weight: 800 ;
+  margin:2rem !important;
+}
+
+
+.port{
+  color:#FA4000 !important;
+}
+
+
+
+
+.rowSet{
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  align-content: center;
+  width: 60%;
+}
+
+.SlImg{
+width: 18rem !important;
+height: auto;
+
+margin: 0 0 0 0;
+}
+
+.slideGen {
+
+ 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+height: auto;
+ background-color: #fff;
+  justify-content: center;
+  align-items: center;
+
+  
+
+  margin: 0 auto;
+  padding: 2rem 0 !important;
+ 
+ 
+ 
+}
+
+.TextCont{
+width: 85%;
+margin: -1rem auto 0 auto;
+}
+.EmpAbout{
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.EmpName{
+font-size: 2rem;
+font-weight: 500;
+
+}
+.imgSet{
+ 
+margin-left: 3%;
+
+}
+
+.imgs{
+  width: 2.8rem !important;
+  height: auto !important;
+
+}
+
+@media (max-width:768px){
+
+  .slideGen {
+
+ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  padding: 0 0 8rem 0;
+   background-color: #ffffff;
+    justify-content: center;
+    align-items: center;
+  
+    margin: 0 auto;
+ 
+    
+    
+   
+   
+  }
+
+
+
+
+
+.imgSet{
+margin-left: 7% !important;
+
+}
+
+.portSpring{
+  width: 25% !important ;
+  height: auto !important;
+  margin: -4rem 0 -4rem 60% !important;
+  
+  
+  
+  }
+  
+  
+.imgs{
+  width: 2rem !important;
+  height: auto !important;
+}
+.EmpName{
+  margin-top: -2rem !important;
+}
+}
+@media (min-width:768px) and (max-width:991px){
+
+  .slideGen {
+
+ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  padding: 0 0 4rem 0;
+   background-color: #fff;
+    justify-content: center;
+    align-items: center;
+  
+    margin: 0 auto;
+   
+   
+   
+  }
+
+
+
+
+
+.imgSet{
+margin-left: 10%;
+
+}
+
+.portSpring{
+  width: 30% !important ;
+  height: auto;
+  margin: -4rem 0 -6rem 65% !important;
+  
+  
+  
+  }
+
+  .imgs{
+
+    margin-top: 0% !important;
+  }
+  
+  
+  
+
+}
+
+
+@media (min-width:991px) and (max-width:1534px){
+
+  .slideGen {
+
+ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  padding: 4rem 0 4rem 0;
+   background-color: #fff;
+    justify-content: center;
+    align-items: center;
+  
+    margin: 0 auto;
+
+   
+   
+   
+  }
+
+
+
+
+
+.imgSet{
+margin-left: 10%;
+
+}
+
+.portSpring{
+  width: 35% !important;
+  height: auto;
+  margin: -4rem 0 -4rem 60% !important;
+
+  
+  
+  
+  }
+
+  .imgs{
+width:0.5rem !important;
+height:auto !important;
+
+
+  }
+  
+  
+  
+
+}

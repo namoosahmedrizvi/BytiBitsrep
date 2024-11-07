@@ -1,0 +1,708 @@
+#About{
+    width: 100%;
+    background-color: #f4efec;
+    border-radius: none;
+}
+
+
+
+.WelcHeading{
+    font-size:4.2rem ;
+    font-weight:600 ;
+     
+    color: #191919;
+    text-align: center;
+    text-transform:uppercase;
+    margin: -0.5rem 0 0 0;
+}
+.RectangleWt{
+    width: 3.45rem !important;
+    height: 2rem !important;
+    margin:1.5rem 0 0 63.8% !important;
+}
+
+.pioneering{
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-align: center;
+}
+
+
+.Settings{
+
+margin-top: 5rem;
+
+}
+
+.teXt{
+
+width:80% !important;
+height: 27.375rem !important;
+background-color: #FFF3EB;
+margin:-35rem auto 0  !important;
+border-radius: 2rem;
+
+box-shadow: 2rem 2rem 2rem 2rem rgba(0, 0, 0, 0.2);
+
+
+
+
+}
+
+.WtPattren{
+    width:28.34rem !important;
+    height: 39rem !important;
+}
+
+.Rectangle2{
+    width:8.75rem !important;
+    height:8rem !important ;
+    margin: -16.5rem 0 0 85% !important;   
+
+}
+
+.Vector6{
+    width:8.25rem !important;
+    height:8.87rem !important;
+
+    margin:-42.5rem 0 0 71% !important;
+    
+    
+
+}
+
+.Girl{
+    width:29rem !important;
+    height: 35.38rem !important;
+    margin:-8.1rem 0 0 57% !important; 
+    
+}
+
+
+.texting{
+
+    margin: -25rem 0 0 2rem;
+    
+}
+.headingAll{
+   
+    font-size: 3.3rem;
+    font-weight: 800;
+    
+}
+
+.peraGraph{
+    width: 30rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+
+
+
+@media (max-width:500px){
+
+
+    .WelcHeading{
+        font-size:2rem ;
+        font-weight:600 ;
+         
+        color: #191919;
+        text-align: center;
+        text-transform:uppercase;
+        margin: -0.5rem 0 0rem 0;
+    }
+    .RectangleWt{
+        width:2.5rem !important;
+        height: 1rem !important;
+        margin:2rem 0 0.5rem 75% !important;
+    }
+    
+    .pioneering{
+        font-size: 1rem;
+        font-weight: 400;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+
+ 
+    .Settings{
+    
+    margin: 2rem 0 0 1rem !important;
+        
+        }
+        
+
+    .WtPattren{
+        width: 8rem !important;
+        height: 11rem !important;
+        margin: 0 0 -5.5rem -2rem !important;
+ 
+     }
+
+     .Vector6{
+        width:4.25rem !important;
+        height:4.87rem !important;
+        margin: -15rem 0 0 60% !important;
+    }
+
+    .Rectangle2{
+      
+        width:3.1rem !important;
+        height:1.7rem !important ;
+        margin: 2rem 0 2rem 80% !important;
+      
+    
+    }
+    
+    
+    
+   
+    .teXt{
+ 
+    width:80% !important;
+   height:10rem !important;
+    background-color: #FFF3EB;
+    margin:-12rem auto 0 auto !important;
+    border-radius: 2.5rem;
+    
+    box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem rgba(0, 0, 0, 0.2);
+    
+    
+    
+    
+    }
+    
+ 
+    
+  
+  
+    .Girl{
+       
+    width:8rem !important;
+    height: 12.85rem !important;
+       
+        margin:-3rem 0 0 45% !important;
+        
+    }
+    
+    .texting{
+
+        margin: -8rem 0 0 1rem !important;
+    }
+   
+    .headingAll{
+     
+       font-size: 1rem !important;
+       font-weight: 400;
+    margin: -5rem 0 0 0 !important;  
+        
+    }
+    
+    .peraGraph{
+        width:125px;
+        font-size: 10px;
+        font-weight: 400;
+    
+        
+        
+       
+    }
+
+
+    .peraGraph1{
+        display: none;
+    }
+    
+    .peraGraph2{
+        display: none;
+    }
+    
+
+
+    
+}
+
+@media (min-width:500px) and (max-width:768px){
+
+.Welcome-Con{
+    margin-bottom: 10rem;
+}
+    .WelcHeading{
+        font-size:3rem ;
+        font-weight:600 ;
+         
+        color: #191919;
+        text-align: center;
+        text-transform:uppercase;
+        margin: -0.5rem 0 0rem 0;
+    }
+    .RectangleWt{
+        width:2.5rem !important;
+        height: 1rem !important;
+        margin:2rem 0 0 78.2% !important;
+    }
+    
+    .pioneering{
+        font-size: 1rem;
+        font-weight: 400;
+        text-align: center;
+        margin-bottom: 5rem;
+    }
+
+
+ 
+    .Settings{
+    
+    margin: 2rem 0 0 1rem;
+        
+        }
+        
+
+    .WtPattren{
+        width: 9rem !important;
+        height: 11rem !important;
+        margin: 0 0 0rem -.5rem  !important;
+ 
+     }
+
+     .Vector6{
+        width:4.25rem !important;
+        height:4.87rem !important;
+        margin: -15rem 0 0 73% !important;
+    }
+
+    .Rectangle2{
+      
+        width:4.1rem !important;
+        height:auto !important;
+        margin: -2.5rem 0 0rem 81% !important;
+      
+    
+    }
+    
+    
+    
+   
+    .teXt{
+ 
+    width:80% !important;
+   height:10rem!important;
+    background-color: #FFF3EB;
+    margin:-11rem auto 4rem auto !important;
+    border-radius: 2.5rem;
+    
+    box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem rgba(0, 0, 0, 0.2);
+    
+    
+    
+    
+    }
+    
+ 
+    
+  
+  
+    .Girl{
+       
+    width:9rem !important;
+    height: 12.85rem !important;
+       
+        margin:-2.9rem 0 0 68% !important;
+        
+    }
+    
+    .texting{
+        
+
+        margin: -9rem 0 0  !important;
+    }
+   
+    .headingAll{
+     
+       font-size: 1.5rem !important;
+       font-weight: 500;
+      
+        
+    }
+    
+    .peraGraph{
+        width: 72%;
+        font-size:0.7rem;
+        font-weight: 400;
+        margin-top: 0rem;
+    
+        
+        
+       
+    }
+
+    .peraGraph1{
+        display: none;
+    }
+    
+    .peraGraph2{
+        display: none;
+    }
+    
+}
+
+
+
+
+
+@media (min-width:768px) and (max-width:991px){
+.Welcome-Con{
+    padding-bottom:5rem !important ;
+}
+
+    .WelcHeading{
+        font-size:3rem ;
+        font-weight:600 ;
+        
+        color: #191919;
+        text-align: center;
+        text-transform:uppercase;
+        margin: 0rem 0 0rem 0;
+    }
+    .RectangleWt{
+        width:3rem !important;
+        height: auto !important;
+        margin:1rem 0 0 70% !important;
+    }
+    
+    .pioneering{
+        font-size: 1rem;
+        font-weight: 400;
+        text-align: center;
+        margin-bottom: 8rem;
+    }
+
+
+ 
+    .Settings{
+    
+    margin: -2rem 0 0 1rem !important;
+        
+        }
+        
+
+    .WtPattren{
+        width: 11rem !important;
+        height: 18rem !important;
+        margin: 1.5rem 0 0rem -1rem !important;
+ 
+     }
+
+     .Vector6{
+        width:7.25rem !important;
+        height:7.87rem !important;
+        margin: -22rem 0 0 70% !important;
+    }
+
+    .Rectangle2{
+      
+        width:6.1rem !important;
+        height:4.7rem !important;
+        margin: -4rem 0 -4rem 82% !important;
+      
+    
+    }
+    
+    
+    
+   
+    .teXt{
+ 
+    width:80% !important;
+   height:16rem !important;
+    background-color: #FFF3EB;
+    margin:-17rem auto 0 auto !important;
+    border-radius: 2.5rem;
+    
+    box-shadow: 0.5rem 0.5rem 1rem 0.5rem rgba(0, 0, 0, 0.2);
+    
+    
+    
+    
+    }
+    
+ 
+    
+  
+  
+    .Girl{
+       
+    width:12.8rem !important;
+    height: 20rem !important;
+       
+        margin:-4.1rem 0 0 63% !important;
+        
+    }
+    
+    .texting{
+width:30rem;
+        margin: -14rem 0 0 0;
+    }
+   
+    .headingAll{
+     
+       font-size: 2.5rem !important;
+       font-weight: 600;
+       
+      
+        
+    }
+    
+    .peraGraph{
+       width:300px;
+        font-size: 1.1rem;
+        font-weight: 500;
+    
+        
+        
+       
+    }
+
+
+
+    
+    .peraGraph1{
+        display: none;
+    }
+    
+    .peraGraph2{
+        display: none;
+    }
+    
+    
+}
+
+
+
+
+@media (min-width:991px) and (max-width:1200px){
+
+.Welcome-Con{
+    padding: 10rem 0rem;
+}
+    .WelcHeading{
+        font-size:3.5rem ;
+        font-weight:600 ;
+        
+        color: #191919;
+        text-align: center;
+        text-transform:uppercase;
+        margin: 0rem 0 0rem 0;
+    }
+    .RectangleWt{
+        width:3.3rem !important;
+        height:auto !important;
+        margin:.5rem 0 0 70% !important;
+    }
+    
+    .pioneering{
+        font-size: 1.8rem;
+        font-weight: 400;
+        text-align: center;
+        margin-bottom: 8rem;
+    }
+
+
+ 
+    .Settings{
+    
+    margin: 2rem 0 0 1rem;
+        
+        }
+        
+
+    .WtPattren{
+        width: 13rem !important;
+        height:auto !important;
+        margin: 0rem 0 -6rem -2.5rem !important;
+ 
+     }
+
+     .Vector6{
+        width:7.25rem !important;
+        height:7.87rem !important;
+        margin: -18rem 0 0 70% !important;
+    }
+
+    .Rectangle2{
+      
+        width:6.3rem !important;
+        height:auto !important;
+        margin: 1rem 0 -5rem 83% !important;
+      
+    
+    }
+    
+    
+    
+   
+    .teXt{
+ 
+    width:80% !important;
+   height:16rem !important;
+    background-color: #FFF3EB;
+    margin:-12rem auto 0 auto !important;
+    border-radius: 2.5rem;
+    
+    box-shadow: 0.5rem 0.5rem 1rem 0.5rem rgba(0, 0, 0, 0.2);
+    
+    
+    
+    
+    }
+    
+ 
+    
+  
+  
+    .Girl{
+       
+    width:12.8rem !important;
+    height: 20rem !important;
+       
+        margin:-4.1rem 0 0 65.5% !important;
+        
+    }
+    
+    .texting{
+width:20rem;
+        margin: -14rem 0 0 0;
+    }
+   
+    .headingAll{
+     
+       font-size: 2.1rem;
+       font-weight: 600;
+     
+      
+        
+    }
+    
+    .peraGraph{
+       
+        font-size:11px;
+        font-weight: 500;
+    
+        
+        
+       
+    }
+    
+}
+
+
+
+
+
+@media (min-width:1201px) and (max-width:1535px){
+
+.Welcome-Con{
+    padding: 10rem 0rem;
+}
+.WelcHeading{
+    font-size:5rem ;
+    font-weight:800 ;
+     
+    color: #191919;
+    text-align: center;
+    text-transform:uppercase;
+    margin: -0.8rem 0 0 0;
+}
+.RectangleWt{
+    width: 3.75rem !important;
+    height: auto !important;
+    margin:1rem 0 .5rem 72.2% !important;
+}
+
+.pioneering{
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom:  5rem;
+}
+
+
+.Settings{
+
+margin-top: 5rem;
+
+}
+
+.teXt{
+
+width:80%;
+height: 27.375rem;
+background-color: #FFF3EB;
+margin:-30rem auto 0 auto;
+border-radius: 2.5rem;
+
+box-shadow: 2rem 2rem 2rem 2rem rgba(0, 0, 0, 0.2);
+
+
+
+
+}
+
+.WtPattren{
+    width:26.34rem !important;
+    height: auto !important;
+    margin: 0rem 0 4rem -3rem !important;
+}
+
+.Rectangle2{
+    width:8.75rem !important;
+    height:8rem !important ;
+    margin: -14.5rem 0 0 82% !important;   
+
+}
+
+.Vector6{
+    width:9.25rem !important;
+    height:7.87rem !important;
+
+    margin:-40.5rem 0 0 68% !important;
+    
+    
+
+}
+
+.Girl{
+    width:26rem !important;
+    height: 35rem !important;
+    margin:-7.70rem 0 0 52% !important;
+    
+}
+
+
+.texting{
+
+    margin: -25rem 0 0 2rem;
+    
+}
+.headingAll{
+    
+    font-size: 3.3rem;
+    font-weight: 800;
+    
+}
+
+.peraGraph{
+    width:20rem;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+
+
+}
+
+
+
+

@@ -1,0 +1,1130 @@
+.careerCon{
+  width: 97%  !important ;
+  padding:0 0 10rem 0  !important ;
+  background-color:#F4EFEC  !important ;
+  border-radius: 100px 100px 0 0  !important ;
+}
+
+
+.contentBan1{
+width: 100%  !important ;
+height: auto  !important ;
+
+
+}
+
+.CareerBanImg{
+width: 100% !important  ;
+height: 650px !important  ;
+border-radius: 100px 100px 0 0  !important ;
+
+
+}
+
+.BannerSet{
+  width: 80%  !important ;
+  height: 170px  !important ;
+  margin:-170px auto 0 auto  !important ;
+  background-color:rgba(116, 107, 101, 0.4)  !important ;
+  border-radius: 30px 30px  !important ;
+
+  text-align: center  !important ;
+
+}
+.CarBAnHeading{
+  font-size: 3.5rem  !important ;
+  font-weight: 900  !important ;
+  text-align: center  !important ;
+}
+.us{
+  color: #ec6608  !important ;
+}
+
+.headBan1{
+  font-size:3rem  !important ;
+  font-weight: 700  !important ;
+  color: #ec6608  !important ;
+  margin: .5rem 0 0 0  !important ;
+}
+
+.textBan1{
+  font-size: 1.4rem  !important ;
+  margin: 5px 0 .5rem 0  !important ;
+  color: whitesmoke  !important ;
+}
+
+
+.btnBan1{
+background-color: black  !important ;
+color: whitesmoke  !important ;
+border: none  !important ;
+margin-top: -5px !important;
+
+}
+.btnBan1:hover{
+background-color:#ec6608  !important ;
+color: whitesmoke  !important ;
+border: none  !important ;
+
+}
+
+.careerBan2{
+  padding: 2rem 0 4rem 0  !important ;
+}
+.cardBan2{
+
+width: 90%  !important ;
+height: 16rem  !important ;
+margin: 2rem auto 0 auto  !important ;
+border:0.5px solid black  !important ;
+background-color: white  !important ;
+
+
+}
+.cardTBan2{
+font-size: large  !important ;  
+font-weight: 600  !important ;
+padding:0.5rem
+
+}
+
+.subTBan2{
+background-color: #FDEFE6  !important ;
+  font-size: 16PX  !important ;
+  padding: 0.2rem 0.5rem  !important ;
+  color: #ec6608  !important ;
+  font-weight: bold  !important ;
+}
+
+
+
+.cardTexBan2{
+  font-size: 15px  !important ;
+padding: 0.5rem  !important ;
+}
+
+
+.btnCBan2{
+display: flex  !important ;
+justify-content: center  !important ;
+align-items: center  !important ;
+width: 95%  !important ;
+margin: 0 auto  !important ;
+font-size: 16px  !important ;
+background-color: #ec6608  !important ;
+border: none  !important ;
+border-radius: 4px  !important ;
+color: white  !important ;
+font-weight: bold  !important ;
+
+
+}
+
+.btnCBan2:hover{                                                     
+background-color: #fa7725  !important ;
+border: none  !important ;
+border-radius: 0  !important ;
+color: white  !important ;
+font-weight: bold  !important ;
+
+
+}
+
+
+
+.carBan3{
+    
+  justify-content: center  !important ;
+  align-items: center  !important ;
+  margin: 0 auto  !important ;
+width:100%  !important ;
+background-color: #F8F9FA  !important ;
+height: auto  !important ;
+padding: 2rem 0 4rem 0  !important ;
+
+
+ } 
+  .headTextCarBan3{
+text-align: center  !important ;
+padding:1rem auto  !important ;
+
+  }
+
+
+  .headingCarBan3{
+    font-size: 4rem  !important ;
+    font-weight: 700  !important ;
+  }
+
+  .bb{
+    color: #ec6608  !important ;
+  }
+  .texrCarBan3{
+    font-size: 1rem  !important ;
+    font-weight: 400  !important ;
+    padding: 1rem 0 0 0  !important ;
+  }
+  .container {
+    
+    width: 100%  !important ;
+    height: auto  !important ;
+    overflow: hidden  !important ;
+  }
+
+  .card-img{
+
+    width: 5rem !important ;
+    height: auto !important  ;
+    margin:2rem auto 0 auto  !important ;
+    
+  }
+
+
+
+  .card-title{
+    font-size: 1.5rem  !important ;
+    font-weight: 600  !important ;
+    margin: 1.5rem auto  !important ;
+    text-align: center  !important ;
+  }
+  .card-text{
+    font-size:small  !important ;
+    
+    
+  }
+  .card1,
+  .card2 { 
+
+    top: 0  !important ;
+    left: 0  !important ;
+    right: 0  !important ;
+    bottom: 0  !important ;
+    display: flex  !important ;
+    flex-direction: column  !important ;
+    
+    animation-duration: 2s  !important ;
+    animation-iteration-count: infinite  !important ;
+    transform-origin: bottom  !important ;
+  }
+  
+  .card {
+    width: 80%  !important ;
+    height:auto  !important ;
+    border: none  !important ;
+    padding: 2rem  !important ;
+    animation-timing-function: ease  !important ;
+    z-index: 1  !important ;
+border-radius: 2rem  !important ;
+margin-top: 4rem  !important ;
+
+}
+
+
+.cardM {
+  width: 80%  !important ;
+  height:auto  !important ;
+  border: none  !important ;
+  padding: 2rem  !important ;
+  animation-timing-function: ease  !important ;
+  z-index: 1  !important ;
+border-radius: 2rem  !important ;
+margin-top: 4rem  !important ;
+
+}
+.CardBan3a{
+
+
+  width: 80%  !important ;
+  height:auto  !important ;
+  border: none  !important ;
+  padding: 2rem  !important ;
+  animation-timing-function: ease  !important ;
+  z-index: 1  !important ;
+border-radius: 2rem  !important ;
+margin-top: 4rem  !important ;
+
+
+}
+  
+  .card1{
+   width: 100%  !important ;
+    height: 18rem  !important ; 
+  background-color: #FFFFFF  !important ;
+    margin: 3rem 0 -18rem 0  !important ;
+    transition: fadeBack 3s ease-in-out  !important ;
+    
+    
+  }
+  .card2 {
+   width: 100%  !important ;
+height: 18rem  !important ;
+    display: flex  !important ;
+    flex-direction: column  !important ;
+    z-index: 0  !important ;
+    background-color: #ec6608  !important ;
+    color: white  !important ;
+    margin: -12.5rem 0 0 0   !important ;
+    animation-delay: 10s  !important ;
+   
+   opacity: 0  !important ;
+  }
+  
+  
+  
+  .container:hover .card1 {
+    opacity: 0  !important ;
+    
+  }
+  
+  .container:hover .card2 {
+    opacity: 1  !important ;
+    z-index: 1  !important ;
+    animation:fadeOut 1s  !important ;
+  }
+
+  @keyframes fadeOut {
+    100% { opacity: 1  !important ; }
+    0% { opacity: 0  !important ; }
+  }
+.cardBan2a{
+  margin-top: 4rem  !important ;
+}
+.BannerImg{
+  width:100% !important  ;
+  
+  height:auto !important ;
+
+}
+.comR{
+width: 90%  !important ;
+height: auto  !important ;
+margin: 0 0  0 10%  !important ;
+justify-content: center  !important ;
+align-items: center  !important ;
+}
+.comm-card{
+border-radius: 0px  !important ;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1)  !important ;
+
+}
+
+
+.carBan4{
+    
+  justify-content: center  !important ;
+  align-items: center  !important ;
+  margin: 0 auto  !important ;
+width:100%  !important ;
+height: auto  !important ;
+padding: 2rem 0 4rem 0  !important ;
+text-align: center  !important ;
+
+
+ } 
+
+
+.modal{
+  width: 80% !important;
+  margin:0 0 0 40% !important;
+}
+
+
+
+
+ .form-control{
+  margin: 50px 0 0 0px  !important ;
+ }
+
+ .Growth{
+  margin-top: 30px  !important ;
+ }
+ .LTS{
+  font-size: 2rem !important ;
+  font-weight: 600  !important ;
+ }
+
+ .hModal{
+  font-size: 20px  !important ;
+  font-weight: 600  !important ;
+  margin-top: 40px  !important ;
+ }
+ .CheckBox{
+  margin-top: 40px  !important ;
+
+
+}
+.formLogo{
+  border-radius: 50% !important;
+}
+@media (max-width:500px){
+
+
+  .CareerBanImg{
+    width: 100% !important  ;
+    height: auto !important ;
+    border-radius: 100px 100px 0 0  !important ;
+    
+    
+    }
+    
+    .BannerSet{
+      width: 80%  !important ;
+      height: 90px  !important ;
+      margin:-90px auto 0 auto  !important ;
+      background-color:rgba(116, 107, 101, 0.4)  !important ;
+      border-radius: 30px 30px  !important ;
+    
+      text-align: center  !important ;
+    
+    }
+    
+    .headBan1{
+      font-size:1.2rem !important ;
+      font-weight: 700  !important ;
+      color: #ec6608  !important ;
+      margin: -5px 0 0 0  !important ;
+    }
+    
+    .textBan1{
+      font-size: 10px  !important ;
+      margin: 10px  0rem 0  0 !important ;
+      color: whitesmoke  !important ;
+    }
+    
+
+
+  
+
+  
+  
+  .btnBan1{
+  background-color: black  !important ;
+  color: whitesmoke  !important ;
+  border: none  !important ;
+  font-size: 8px  !important ;
+  margin-top: 10px !important;
+  
+  }
+  .btnBan1:hover{
+  background-color:#ec6608  !important ;
+  color: whitesmoke  !important ;
+  border: none  !important ;
+  
+  }
+ 
+  
+
+  
+.modal{
+  width: 60% !important;
+  margin:0 0 0 40% !important;
+}
+
+
+
+
+ .form-control{
+  margin: 50px 0 0 0px  !important ;
+ }
+
+ .Growth{
+  margin-top: 30px  !important ;
+ }
+ .LTS{
+  font-size: 15px  !important ;
+  font-weight: 600  !important ;
+ }
+
+ .hModal{
+  font-size: 10px  !important ;
+  font-weight: 600  !important ;
+  margin-top: 40px  !important ;
+ }
+ .CheckBox{
+  margin-top: 40px  !important ;
+
+
+}
+
+
+  
+
+}
+
+
+@media (min-width:501px) and (max-width:767px){
+
+
+  .CareerBanImg{
+    width: 100% !important  ;
+    height: auto !important ;
+    border-radius: 100px 100px 0 0  !important ;
+    
+    
+    }
+    
+    .BannerSet{
+      width: 80%  !important ;
+      height: 90px  !important ;
+      margin:-90px auto 0 auto  !important ;
+      background-color:rgba(116, 107, 101, 0.4)  !important ;
+      border-radius: 30px 30px  !important ;
+    
+      text-align: center  !important ;
+    
+    }
+    
+    .headBan1{
+      font-size:1.2rem !important ;
+      font-weight: 700  !important ;
+      color: #ec6608  !important ;
+      margin: -5px 0 0 0  !important ;
+    }
+    
+    .textBan1{
+      font-size: 10px  !important ;
+      margin: 10px  0rem 0  0 !important ;
+      color: whitesmoke  !important ;
+    }
+    
+
+
+  
+
+  
+  
+  .btnBan1{
+  background-color: black  !important ;
+  color: whitesmoke  !important ;
+  border: none  !important ;
+  font-size: 8px  !important ;
+  margin-top: 10px !important;
+  
+  }
+  .btnBan1:hover{
+  background-color:#ec6608  !important ;
+  color: whitesmoke  !important ;
+  border: none  !important ;
+  
+  }
+ 
+  
+
+  
+.modal{
+  width: 60% !important;
+  margin:0 0 0 40% !important;
+}
+
+
+
+
+ .form-control{
+  margin: 50px 0 0 0px  !important ;
+ }
+
+ .Growth{
+  margin-top: 30px  !important ;
+ }
+ .LTS{
+  font-size: 15px  !important ;
+  font-weight: 600  !important ;
+ }
+
+ .hModal{
+  font-size: 10px  !important ;
+  font-weight: 600  !important ;
+  margin-top: 40px  !important ;
+ }
+ .CheckBox{
+  margin-top: 40px  !important ;
+
+
+}
+
+
+  
+
+}
+
+
+@media (min-width:991px) and (max-width:1200px){
+
+
+  .CareerBanImg{
+    width: 100% !important  ;
+    height: auto !important ;
+    border-radius: 100px 100px 0 0  !important ;
+    
+    
+    }
+    
+    .BannerSet{
+      width: 80%  !important ;
+      height: 90px  !important ;
+      margin:-90px auto 0 auto  !important ;
+      background-color:rgba(116, 107, 101, 0.4)  !important ;
+      border-radius: 30px 30px  !important ;
+    
+      text-align: center  !important ;
+    
+    }
+    
+    .headBan1{
+      font-size:1.2rem !important ;
+      font-weight: 700  !important ;
+      color: #ec6608  !important ;
+      margin: -5px 0 0 0  !important ;
+    }
+    
+    .textBan1{
+      font-size: 10px  !important ;
+      margin: 10px  0rem 0  0 !important ;
+      color: whitesmoke  !important ;
+    }
+    
+
+
+  
+
+  
+  
+  .btnBan1{
+  background-color: black  !important ;
+  color: whitesmoke  !important ;
+  border: none  !important ;
+  font-size: 8px  !important ;
+  margin-top: 10px !important;
+  
+  }
+  .btnBan1:hover{
+  background-color:#ec6608  !important ;
+  color: whitesmoke  !important ;
+  border: none  !important ;
+  
+  }
+ 
+  
+
+  
+.modal{
+  width: 60% !important;
+  margin:0 0 0 40% !important;
+}
+
+
+
+
+ .form-control{
+  margin: 50px 0 0 0px  !important ;
+ }
+
+ .Growth{
+  margin-top: 30px  !important ;
+ }
+ .LTS{
+  font-size: 15px  !important ;
+  font-weight: 600  !important ;
+ }
+
+ .hModal{
+  font-size: 10px  !important ;
+  font-weight: 600  !important ;
+  margin-top: 40px  !important ;
+ }
+ .CheckBox{
+  margin-top: 40px  !important ;
+
+
+}
+
+
+  
+
+}
+@media (min-width:767px) and (max-width:991px){
+
+
+  .CareerBanImg{
+    width: 100% !important  ;
+    height: auto !important ;
+    border-radius: 100px 100px 0 0  !important ;
+    
+    
+    }
+    
+    .BannerSet{
+      width: 80%  !important ;
+      height: 90px  !important ;
+      margin:-90px auto 0 auto  !important ;
+      background-color:rgba(116, 107, 101, 0.4)  !important ;
+      border-radius: 30px 30px  !important ;
+    
+      text-align: center  !important ;
+    
+    }
+    
+    .headBan1{
+      font-size:1.2rem !important ;
+      font-weight: 700  !important ;
+      color: #ec6608  !important ;
+      margin: -5px 0 0 0  !important ;
+    }
+    
+    .textBan1{
+      font-size: 10px  !important ;
+      margin: 10px  0rem 0  0 !important ;
+      color: whitesmoke  !important ;
+    }
+    
+
+
+  
+
+  
+  
+  .btnBan1{
+  background-color: black  !important ;
+  color: whitesmoke  !important ;
+  border: none  !important ;
+  font-size: 8px  !important ;
+  margin-top: 10px !important;
+  
+  }
+  .btnBan1:hover{
+  background-color:#ec6608  !important ;
+  color: whitesmoke  !important ;
+  border: none  !important ;
+  
+  }
+ 
+  
+
+  
+.modal{
+  width: 60% !important;
+  margin:0 0 0 40% !important;
+}
+
+
+
+
+ .form-control{
+  margin: 50px 0 0 0px  !important ;
+ }
+
+ .Growth{
+  margin-top: 30px  !important ;
+ }
+ .LTS{
+  font-size: 15px  !important ;
+  font-weight: 600  !important ;
+ }
+
+ .hModal{
+  font-size: 10px  !important ;
+  font-weight: 600  !important ;
+  margin-top: 40px  !important ;
+ }
+ .CheckBox{
+  margin-top: 40px  !important ;
+
+
+}
+
+
+  
+
+}
+
+@media (min-width:1201px) and (max-width:1434px){
+
+
+  .CareerBanImg{
+    width: 100% !important  ;
+    height: auto !important ;
+    border-radius: 100px 100px 0 0  !important ;
+    
+    
+    }
+    
+    .BannerSet{
+      width: 80%  !important ;
+      height: 90px  !important ;
+      margin:-90px auto 0 auto  !important ;
+      background-color:rgba(116, 107, 101, 0.4)  !important ;
+      border-radius: 30px 30px  !important ;
+    
+      text-align: center  !important ;
+    
+    }
+    
+    .headBan1{
+      font-size:1.2rem !important ;
+      font-weight: 700  !important ;
+      color: #ec6608  !important ;
+      margin: -5px 0 0 0  !important ;
+    }
+    
+    .textBan1{
+      font-size: 10px  !important ;
+      margin: 10px  0rem 0  0 !important ;
+      color: whitesmoke  !important ;
+    }
+    
+
+
+  
+
+  
+  
+  .btnBan1{
+  background-color: black  !important ;
+  color: whitesmoke  !important ;
+  border: none  !important ;
+  font-size: 8px  !important ;
+  margin-top: 10px !important;
+  
+  }
+  .btnBan1:hover{
+  background-color:#ec6608  !important ;
+  color: whitesmoke  !important ;
+  border: none  !important ;
+  
+  }
+ 
+  
+
+  
+.modal{
+  width: 60% !important;
+  margin:0 0 0 40% !important;
+}
+
+
+
+
+ .form-control{
+  margin: 50px 0 0 0px  !important ;
+ }
+
+ .Growth{
+  margin-top: 30px  !important ;
+ }
+ .LTS{
+  font-size: 15px  !important ;
+  font-weight: 600  !important ;
+ }
+
+ .hModal{
+  font-size: 10px  !important ;
+  font-weight: 600  !important ;
+  margin-top: 40px  !important ;
+ }
+ .CheckBox{
+  margin-top: 40px  !important ;
+
+
+}
+
+
+  
+
+}
+@media (min-width:767px) and (max-width:991px){
+
+
+  .CareerBanImg{
+    width: 100% !important  ;
+    height: auto !important ;
+    border-radius: 100px 100px 0 0  !important ;
+    
+    
+    }
+    
+    .BannerSet{
+      width: 80%  !important ;
+      height: 90px  !important ;
+      margin:-90px auto 0 auto  !important ;
+      background-color:rgba(116, 107, 101, 0.4)  !important ;
+      border-radius: 30px 30px  !important ;
+    
+      text-align: center  !important ;
+    
+    }
+    
+    .headBan1{
+      font-size:1.2rem !important ;
+      font-weight: 700  !important ;
+      color: #ec6608  !important ;
+      margin: -5px 0 0 0  !important ;
+    }
+    
+    .textBan1{
+      font-size: 10px  !important ;
+      margin: 10px  0rem 0  0 !important ;
+      color: whitesmoke  !important ;
+    }
+    
+
+
+  
+
+  
+  
+  .btnBan1{
+  background-color: black  !important ;
+  color: whitesmoke  !important ;
+  border: none  !important ;
+  font-size: 8px  !important ;
+  margin-top: 10px !important;
+  
+  }
+  .btnBan1:hover{
+  background-color:#ec6608  !important ;
+  color: whitesmoke  !important ;
+  border: none  !important ;
+  
+  }
+ 
+  
+
+  
+.modal{
+  width: 60% !important;
+  margin:0 0 0 40% !important;
+}
+
+
+
+
+ .form-control{
+  margin: 50px 0 0 0px  !important ;
+ }
+
+ .Growth{
+  margin-top: 30px  !important ;
+ }
+ .LTS{
+  font-size: 2rem  !important ;
+  font-weight: 600  !important ;
+ }
+
+ .hModal{
+  font-size: 10px  !important ;
+  font-weight: 600  !important ;
+  margin-top: 40px  !important ;
+ }
+ .CheckBox{
+  margin-top: 40px  !important ;
+
+
+}
+
+
+  
+
+}
+
+
+
+
+@media (min-width:992px) and (max-width:1200px){
+
+
+  .CareerBanImg{
+    width: 100% !important  ;
+    height: auto !important ;
+    border-radius: 100px 100px 0 0  !important ;
+    
+    
+    }
+    
+    .BannerSet{
+      width: 80%  !important ;
+      height: 130px  !important ;
+      margin:-130px auto 0 auto  !important ;
+      background-color:rgba(116, 107, 101, 0.4)  !important ;
+      border-radius: 30px 30px  !important ;
+    
+      text-align: center  !important ;
+    
+    }
+    
+    .headBan1{
+      font-size:2.5rem !important ;
+      font-weight: 700  !important ;
+      color: #ec6608  !important ;
+      margin: -5px 0 0 0  !important ;
+    }
+    
+    .textBan1{
+      font-size: 1rem  !important ;
+      margin: 5px  0rem 0  0 !important ;
+      color: whitesmoke  !important ;
+    }
+    
+
+
+  
+
+  
+  
+  .btnBan1{
+  background-color: black  !important ;
+  color: whitesmoke  !important ;
+  border: none  !important ;
+  font-size: 12px  !important ;
+  margin-top: 10px !important;
+  
+  }
+  .btnBan1:hover{
+  background-color:#ec6608  !important ;
+  color: whitesmoke  !important ;
+  border: none  !important ;
+  
+  }
+ 
+  
+
+  
+.modal{
+  width: 60% !important;
+  margin:0 0 0 40% !important;
+}
+
+
+
+
+ .form-control{
+  margin: 50px 0 0 0px  !important ;
+ }
+
+ .Growth{
+  margin-top: 30px  !important ;
+ }
+ .LTS{
+  font-size: 2rem  !important ;
+  font-weight: 600  !important ;
+ }
+
+ .hModal{
+  font-size: 10px  !important ;
+  font-weight: 600  !important ;
+  margin-top: 40px  !important ;
+ }
+ .CheckBox{
+  margin-top: 40px  !important ;
+
+
+}
+
+
+  
+
+}
+
+
+
+
+
+
+
+@media (min-width:1201px) and (max-width:1534px){
+
+
+  .CareerBanImg{
+    width: 100% !important  ;
+    height: auto !important ;
+    border-radius: 100px 100px 0 0  !important ;
+    
+    
+    }
+    
+    .BannerSet{
+      width: 80%  !important ;
+      height: 160px  !important ;
+      margin:-160px auto 0 auto  !important ;
+      background-color:rgba(116, 107, 101, 0.4)  !important ;
+      border-radius: 30px 30px  !important ;
+    
+      text-align: center  !important ;
+    
+    }
+    
+    .headBan1{
+      font-size:3.5rem !important ;
+      font-weight: 700  !important ;
+      color: #ec6608  !important ;
+      margin: -5px 0 0 0  !important ;
+    }
+    
+    .textBan1{
+      font-size: 1.3rem  !important ;
+      margin: 5px  0rem 0  0 !important ;
+      color: whitesmoke  !important ;
+    }
+    
+
+
+  
+
+  
+  
+  .btnBan1{
+  background-color: black  !important ;
+  color: whitesmoke  !important ;
+  border: none  !important ;
+  font-size: 1rem  !important ;
+  margin-top: 5px !important;
+  
+  }
+  .btnBan1:hover{
+  background-color:#ec6608  !important ;
+  color: whitesmoke  !important ;
+  border: none  !important ;
+  
+  }
+ 
+  
+
+  
+.modal{
+  width: 60% !important;
+  margin:0 0 0 40% !important;
+}
+
+
+
+
+ .form-control{
+  margin: 50px 0 0 0px  !important ;
+ }
+
+ .Growth{
+  margin-top: 30px  !important ;
+ }
+ .LTS{
+  font-size: 2rem  !important ;
+  font-weight: 600  !important ;
+ }
+
+ .hModal{
+  font-size: 10px  !important ;
+  font-weight: 600  !important ;
+  margin-top: 40px  !important ;
+ }
+ .CheckBox{
+  margin-top: 40px  !important ;
+
+
+}
+
+
+  
+
+}
+
+
+
+

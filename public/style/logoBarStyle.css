@@ -1,0 +1,86 @@
+
+
+.LogoMain{
+   height:15rem;
+   margin: auto;
+   background-color:#F4EFEC;
+
+}
+
+.LogoDe{
+   display: flex;
+   width: 15%;
+   float: left;
+   margin: auto;
+}
+.set{
+   margin-left: 7%;
+}
+
+.te{
+   margin-top: -3%;
+}
+.FPC{
+   width: 8%;
+   height: auto;
+   margin-top: -2%;
+
+
+
+
+   
+}
+
+
+@media (max-width:767px){
+   .LogoMain{
+      height:auto !important;
+      margin:auto;
+      margin:0 auto 0 auto;
+      padding: 0 0 4rem 0;
+   }
+
+   .LogoDe{
+      display: flex;
+      width:60%;
+      float: none;
+      margin: auto;
+   }
+
+.FPC{
+   width: 45%;
+   height: auto;
+}
+
+
+}
+
+@media (min-width:768px) and (max-width:992px) {
+
+   .LogoMain{
+      width: 100%;
+      height:auto;
+      margin: auto;
+     padding-bottom: 10rem;
+   }
+   .SocialBu{
+      width: 20rem;
+      height: auto;
+      float: none;
+   }
+
+   .LogoDe{
+      display: flex;
+      width:30%;
+      height: auto;
+      float: none;
+      margin: auto;
+   }
+
+   .FPC{
+      width:20% ;
+   }
+}
+
+
+

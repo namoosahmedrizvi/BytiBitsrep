@@ -1,0 +1,1367 @@
+
+
+#Services{
+  width: 97% !important;
+  height: auto !important;
+  background-color: #f4efec !important;
+  padding: 0 0 0 0 !important;
+  margin: 0 auto !important;
+  border-radius: 100px 100px 0 0 !important;
+  font-family: 'trap',sans-serif !important;
+}
+.BannerImg{
+  width: 100% !important;
+  height:auto !important;
+  border-radius: 100px 100px 0 0 !important;
+
+
+}
+
+.CardBan3{
+   height: 13rem !important;
+   border-radius: none !important;
+}
+
+.CardBan3{
+
+  height: 13rem !important;
+  border-radius: none;
+}
+
+.textBanrow{
+
+  width: 80% !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-items: center !important;
+  align-items: center !important;
+  position:absolute !important;
+  z-index: 1;
+  margin: -210px auto 0 10% !important;
+  padding: 1rem 0 !important;
+  text-align: center;
+  background-color: rgba(116, 107, 101, 0.4);
+  border-radius: 30px;
+
+}
+.mainta{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto !important;
+}
+.clDiv{
+  float: left !important;
+  margin: 2rem 0 0 2rem !important;
+
+  
+}
+.clDiv2{
+
+  margin: 2rem 0 0 2rem !important;
+  padding: 5rem 0  0 0 !important;
+}
+.cldiv1{
+  border-right: 1px solid #9fa6b2 !important;
+  padding-right:2rem !important;
+
+}
+.headinNum{
+  font-size: 2.5rem !important;
+  font-weight: 700 !important;
+  color: #ec6608 !important;
+}
+.satis{
+  font-size:1rem !important;
+  color: #9fa6b2 !important;
+}
+.matter{
+  color: #ec6608 !important;
+}
+.headNumb{
+  margin: 3rem 0 0  0 !important;
+}
+.HeadingBan{
+  
+  color: #ec6608  !important;
+}
+.BSM{
+
+  font-size:4rem !important;
+  font-weight:700 !important;
+  text-align: center !important;
+}
+.BSMtext{
+  width: 100% !important;
+  font-size: 1rem!important;
+  text-align: center;
+  margin: 0 auto !important;
+}
+.TextBan{
+font-size: 1.5rem !important;
+font-weight: 500 !important;
+color: #FFF !important;
+
+display:flex;
+flex-direction: column;
+justify-content: center;
+  align-content: center;
+  margin: 0 auto !important;
+}
+
+
+
+.Ban2Ser{
+display: flex;
+flex-direction: column;
+padding: 5rem 0 !important;
+
+
+}
+
+.bStM{
+  width: 95%;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+
+  padding: 5rem auto!important;
+  margin: 0 0 0 -10rem !important;
+}
+
+.Imge1{
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  align-content: center;
+  width:25rem !important;
+  height: auto;
+  margin: 0  auto;
+}
+
+.ideaImge{
+  width: 400px !important;
+  height: auto !important;
+  margin-left: -2.5rem !important;
+}
+
+.BriilenceImg{
+  width: 415px !important;
+  height: auto !important;
+  margin-left: 1rem !important;
+}
+.textDiv1{
+  width: 100% !important;
+  margin: 0 auto !important; 
+  text-align: center;
+  justify-content: center;
+align-items: center;
+}
+
+.splint{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  float: left;
+  margin: 0 3rem 0 0 !important;
+}
+
+
+.btnBan{
+  font-size: 1rem !important;
+  color: white !important;
+  border: none;
+  background-color:#000000 !important;
+  padding: .5rem 1rem !important;
+  font-weight: 400;
+
+  border-radius: 8px;
+  margin-top: 1rem;
+}
+
+.btnBan:hover{
+  background-color: #ec6608!important;
+}
+
+
+
+
+
+.BanImgDiv{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    position: relative;
+    z-index: 0;
+  }
+  
+  .HeadingBan{
+    font-size: 4rem;
+    font-weight: 700;
+    
+  }
+  .wOrOw {
+      display: flex;
+      justify-content:center;
+      align-items: center;
+      padding: 5rem 0  !important;
+      
+    }
+    
+    .WeWork {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 500px !important;
+      height: auto !important;
+      margin: 0 auto !important;
+    }
+    
+    .WoToprect {
+      width: 2rem;
+      height: auto;
+      margin: 5rem 0 0 22%;
+    }
+    
+    .WORect {
+      width: 13.8125rem;
+      height: 13.8125rem;
+      margin: 0 0  0 1rem;
+    }
+   .service{
+    
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+width: 95%;
+height: auto;
+
+   } 
+    
+    .container {
+      
+      width: 100%;
+      height: auto;
+      overflow: hidden;
+    }
+  
+    .card-img{
+  
+      width: 4.5rem;
+      height: auto;
+      margin:2rem auto 0 auto;
+      
+    }
+
+
+
+    .card-title{
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin: 1.5rem auto;
+      text-align: center;
+    }
+    .card-text{
+      font-size:small;
+      margin: 1rem auto;
+      text-align: center;
+      
+    }
+    .card1,
+    .card2 { 
+  
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      display: flex;
+      flex-direction: column;
+      
+      animation-duration: 2s;
+      animation-iteration-count: infinite;
+      transform-origin: bottom;
+    }
+    
+    .card {
+      width: 80%;
+      height:auto;
+      border: none;
+      padding: 2rem;
+      animation-timing-function: ease;
+      z-index: 1;
+  border-radius: 3rem;
+  margin-top: 4rem;
+  
+  }
+  
+    
+    .card1{
+     width: 100%;
+      height: 18rem; 
+    
+      margin: 3rem 0 -18rem 0;
+      
+      
+      
+    }
+    .card2 {
+     width: 100%;
+  height: 18rem;
+      display: flex;
+      flex-direction: column;
+      z-index: 0;
+      background-color: #ec6608;
+      color: white;
+      margin: -12.5rem 0 0 0 ;
+     
+     opacity: 0;
+    }
+    .container:hover .card1 {
+      opacity: 0;
+    }
+    
+    .container:hover .card2 {
+      opacity: 1;
+      z-index: 1;
+      animation:fadeOut 1s;
+    }
+  
+    @keyframes fadeOut {
+      100% { opacity: 1; }
+      0% { opacity: 0; }
+    }
+  
+  .BannerImg{
+    width:100%;
+    
+    height:auto;
+  
+  }
+.comR{
+  width: 90%;
+  height: auto;
+  margin: 0 0  0 10%;
+  justify-content: center;
+  align-items: center;
+}
+.comm-card{
+  width: 70% !important;
+  height: auto !important;
+  border-radius: 0px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 1rem !important;
+
+}
+.comm-carda{
+  margin-top: 2rem !important;
+}
+  .Idpic{
+
+    width: 3rem !important;
+    height: auto  !important;
+  }
+
+  .star{
+    width:6rem !important;
+    height: auto !important;
+    margin: -3rem 0 0 70%  !important;
+    padding: .5rem 0 !important;
+  }
+  .client{
+    float: left;
+  }
+  .clientn{
+    font-size: 1rem;
+    margin:-2.5rem 0 0 15% !important;
+  }
+  .cliente{
+    font-size: .8rem !important;
+    margin: 0 0 0 4rem !important;
+  }
+  .textCard{
+    font-size: 14px !important;
+    margin: 0rem 0 0 0 !important;
+    padding:  0 1rem  1rem 1rem !important;
+  }
+  @media (max-width:500px){
+
+
+
+    
+.BannerImg{
+  width: 100% !important;
+  height: auto !important;
+}
+    .textBanrow{
+
+      width: 80% !important;
+      height: 90px !important;
+      display: flex;
+      flex-direction: column;
+      justify-items: center;
+      align-items: center;
+      position:absolute;
+      z-index: 1;
+      margin: -90px auto 0 10% !important;
+      padding: 1rem 0;
+      text-align: center;
+      background-color: rgba(116, 107, 101, 0.4);
+      border-radius: 30px !important;
+    }
+
+
+    .HeadingBan{
+      font-size:1rem !important;
+    margin: 0 !important;    }
+  .TextBan{
+    font-size:7px !important;
+    margin-top: 5px !important;
+    color: #FFF !important;
+  }
+
+  
+.btnBan{
+  display: block;
+  font-size: 8px !important;
+  color: white;
+  border: none;
+  background-color:#000000;
+  padding: .5rem 1rem;
+  font-weight: 400;
+ 
+  border-radius: 8px;
+  margin: 2.5rem  0 0 -75% !important;
+
+}
+
+.btnBan:hover{
+  background-color: #ec6608;
+}
+
+
+  .ideaImge{
+    display: none;
+  width:200PX;
+  height: auto;
+  margin:0 ;
+  }
+  .BriilenceImg{
+    display: none;
+  width:200PX;
+  height: auto;
+  margin:0 0 0 0 !important;
+  }
+
+  .textDiv1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 0 45% !important;
+  }
+  .BSM{
+    width: 300px !important;
+    font-size: 2.5rem !important;
+    
+  }
+   
+
+
+
+
+
+  
+    .wOrOw {
+      display: flex;
+      justify-content:center;
+      align-items: center;
+      padding: 5rem 0 !important;
+      margin-top: 1rem !important;
+    }
+    
+    .WeWork {
+      width:70% !important;
+      height: auto;
+    }
+    
+    .WoToprect {
+      width: 1rem !important;
+      height: auto !important;
+      margin: 5rem 0 0 10% !important;
+    }
+    
+    .container {
+      
+      width: 100% !important;
+      height: auto !important;
+      overflow: hidden;
+    }
+  
+      
+    .card1,
+    .card2 {
+  
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      display: flex;
+      flex-direction: column;
+      
+      animation-duration: 2s;
+      animation-iteration-count: infinite;
+      transform-origin: bottom;
+    }
+     
+    .card {
+      width: 100% !important;
+      height: auto !important;
+      border: none !important;
+      padding: 2rem !important;
+      animation-timing-function: ease;
+      z-index: 1;
+  border-radius: 3rem 3rem !important;
+  
+  margin-top: 2rem;
+  
+  } 
+  
+  
+    
+  .card1{
+    width: 100%;
+    height: 15rem !important;
+    margin: 3rem 0 -15rem 0 !important;
+  opacity: 1;  
+  border-radius: 3rem !important;  
+    
+  }
+  
+  .card2 {
+    width: 100% !important;
+    height: 15rem !important;
+    display: flex;
+      z-index: 0;
+    background-color: #ec6608;
+    color: white;
+    margin: 0rem 0 0 0 !important;
+   
+   opacity: 0;
+  }
+  
+  .container:hover .card1 {
+    opacity: 0;
+  }
+  
+  .container:hover .card2 {
+    opacity: 1;
+    z-index: 1;
+  }
+  
+  .card-title{
+  font-size: 95% !important;
+  font-weight: 700;
+text-align: center !important;
+  margin: 2rem auto 0 auto !important;
+  }
+
+  
+  .comm-card{
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 0px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 1rem !important;
+    padding: 1rem 0;
+  
+  }
+  .comm-carda{
+    margin-top: 2rem !important;
+  }
+    .Idpic{
+  
+      width: 3rem !important;
+      height: auto !important;
+    }
+  
+    .star{
+      width:4rem !important;
+      height: auto;
+      margin: -3rem 0 0 70% !important;
+    }
+    .client{
+      float: left;
+    }
+    .clientn{
+      font-size: 1rem;
+      margin:-3rem 0 0 20% !important;
+    }
+    .cliente{
+      font-size: .8rem;
+      margin: -.5rem 0 0 15% !important;
+    }
+    .textCard{
+      font-size: 10px !important;
+      margin: 0rem 0 0 0;
+      padding:  0 1rem  1rem 1rem !important;
+    }
+  
+  
+  
+  }
+  
+  
+  
+  @media (min-width:501px) and (max-width:767px){
+
+    .textBanrow{
+
+      width: 80% !important;
+      height: 100px !important;
+      display: flex !important;
+      flex-direction: column !important;
+      justify-items: center !important;
+      align-items: center !important;
+      position:absolute !important;
+      z-index: 1;
+      margin: -100px auto 0 10% !important;
+      padding: 1rem 0 !important;
+      text-align: center;
+      background-color: rgba(116, 107, 101, 0.4);
+      border-radius: 30px;
+    }
+
+    .HeadingBan{
+      font-size:1.3rem !important;
+      font-weight: 700 !important;
+    margin: 0rem 0 0 0!important;    }
+
+
+    .TextBan{
+      font-size:14px !important;
+      margin:  5px auto !important;
+    }
+  
+
+    .btnBan{
+      display: block;
+      font-size: 8px !important;
+      color: white;
+      border: none;
+      background-color:#000000;
+      padding: .5rem 1rem;
+    
+      font-weight: 400;
+     
+      border-radius: 8px !important;
+      margin: 3.5rem  0 0 -71%!important;
+    
+    }
+    
+
+
+    .wOrOw {
+
+
+
+
+
+
+      display: flex !important;
+      justify-content:center !;
+      align-items: center !important;
+      padding: 5rem 0 !important;
+      margin-top: 1rem !important;
+    }
+
+    
+
+
+  
+
+  .ideaImge{
+    display: none;
+  width:200PX;
+  height: auto;
+  margin:0 ;
+  }
+  .BriilenceImg{
+    display: none;
+  width:200PX;
+  height: auto;
+  margin:0 0 0 0;
+  }
+
+  .textDiv1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 0 35% !important;
+  }
+  .BSM{
+    width: 300px !important;
+    font-size: 2.5rem !important;
+    margin-left: 1.5rem !important;
+  }
+   
+
+
+
+
+
+
+
+
+
+    .WeWork {
+      width:60% !important;
+      height: auto !important;
+    }
+    
+    .WoToprect {
+      width: 1rem !important;
+      height: auto !important;
+      margin: 5rem 0 0 17% !important;
+    }
+    
+
+    
+    .container {
+      
+      width: 100% !important;
+      height: auto !important;
+      overflow: hidden;
+    }
+  
+      
+    .card1,
+    .card2 {
+  
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      display: flex;
+      flex-direction: column;
+      
+      animation-duration: 2s;
+      animation-iteration-count: infinite;
+      transform-origin: bottom;
+    }
+     
+    .card {
+      width: 100% !important;
+      height:auto !important;
+      border: none;
+      padding: 2rem !important;
+      animation-timing-function: ease;
+      z-index: 1;
+  border-radius: 3rem;
+  
+  margin-top: 2rem !important;
+  
+  } 
+  
+  
+    
+  .card1{
+    width: 80% !important;
+    height: 20rem !important;
+    margin: 3rem auto -22rem auto !important;
+  opacity: 1;    
+    
+  }
+  
+  .card2 {
+    width: 80% !important;
+    height: 20rem !important;
+    display: flex !important;
+      z-index: 0;
+    background-color: #ec6608;
+    color: white;
+    margin: 2rem auto 0 auto  !important;
+   
+   opacity: 0;
+  }
+  
+  .container:hover .card1 {
+    opacity: 0;
+  }
+  
+  .container:hover .card2 {
+    opacity: 1;
+    z-index: 1;
+  }
+  
+  .card-title{
+  font-size: 95% !important;
+  font-weight: 700 !important;
+  }
+  
+  .comm-card{
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 0px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 1rem;
+  padding: 1.5rem 0 !important;
+  }
+  .comm-carda{
+    margin-top: 2rem !important;
+  }
+    .Idpic{
+  
+      width: 3rem;
+      height: auto;
+    }
+  
+
+    .clientn{
+      margin: -2.5rem 0 0 14% !important;
+    }
+
+    .cliente{
+      margin: -2.5px 0 0 14% !important;
+    }
+    .star{
+      width:6rem !important;
+      height: auto !important;
+      margin: -3rem 0 0 16rem !important;
+    }
+  
+  }
+  
+  
+  
+  @media (min-width:768px) and (max-width:991px){
+
+.textBanrow{
+  height: 171px !important;
+  margin-top:-171px !important;
+
+}
+    .HeadingBan{
+      font-size:2rem !important;
+      font-weight: 700 ;
+    }
+  .TextBan{
+    font-size: 1rem !important;
+    margin: 0 0 2rem 0;
+  }
+
+  .ideaImge{
+  width:300px !important;
+  height: auto;
+  margin:-8rem 0 0 3rem !important;
+  }
+  .BriilenceImg{
+  width:300px !important;
+  height: auto;
+  margin:-8rem 0 0 3rem !important;
+  }
+
+  .textDiv1{
+    margin-left: 4rem !important;
+  }
+  .BSM{
+    width: 250px;
+    font-size: 2rem !important;
+  
+  }
+   
+
+.BSMtext {
+  font-size: 12px;
+}
+
+.headinNum{
+font-size: 1rem !important;
+
+}
+
+.satis{
+  font-size: 8px !important;
+}
+.headingNum90{
+  margin-top:0px !important;
+}
+.headingNum5{
+  margin-top:40px !important;
+}
+  
+    .wOrOw {
+      display: flex;
+      justify-content:center;
+      align-items: center;
+      padding: 5rem 0;
+      margin-top: 1rem;
+    }
+    
+    .WeWork {
+      width:100%;
+      height: auto;
+      margin: 0 0 0 1rem;
+    
+    }
+    
+    .WoToprect {
+      width: 2rem;
+      height: auto;
+      margin: 5rem 0 0 15%;
+    }
+    
+    
+    .container {
+      
+      width: 100%;
+      height: auto;
+      overflow: hidden;
+    }
+  
+      
+    .card1,
+    .card2 {
+  
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      display: flex;
+      flex-direction: column;
+      
+      animation-duration: 2s;
+      animation-iteration-count: infinite;
+      transform-origin: bottom;
+    }
+     
+    .card {
+      width: 100%;
+      height:auto;
+      border: none;
+      padding: 2rem;
+      animation-timing-function: ease;
+      z-index: 1;
+  border-radius: 3rem;
+  
+  margin-top: 2rem;
+  
+  } 
+  
+  
+    
+  .card1{
+    width: 100%;
+    height: 22rem;
+    
+    margin: 5rem 0 -25.65rem 0;
+  opacity: 1;    
+    
+  }
+  
+  .card2 {
+    width: 100%;
+    height: 22rem;
+    display: flex;
+      z-index: 0;
+    background-color: #ec6608;
+    color: white;
+    margin: 3.5rem 0 0 0 ;
+   
+   opacity: 0;
+  }
+  
+  .container:hover .card1 {
+    opacity: 0;
+  }
+  
+  .container:hover .card2 {
+    opacity: 1;
+    z-index: 1;
+  }
+  
+  .card-title{
+  font-size: 95%;
+  font-weight: 700;
+  }
+  
+  .comm-card{
+    width: 100% !important;
+    height: 8rem !important;
+    padding: 1rem 0 !important;
+  }
+  
+
+  .star{
+    width: 5rem !important;
+    height: auto !important;
+    margin: 10px 0 0 50% !important;
+  }
+  
+  .clientn{
+    margin-top: -1.5rem !important;
+  }
+
+  .cliente{
+    margin-top: -1rem !important;
+  }
+  }
+  
+  
+  
+  
+  
+  
+  
+  @media (min-width:991px) and (max-width:1200px){
+
+.textBanrow{
+  margin-top: -190px !important;
+}
+
+    .HeadingBan{
+      font-size:3rem !important;
+    }
+  .TextBan{
+    font-size: 1.5rem !important;
+  }
+
+  .ideaImge{
+    width:18rem !important;
+    height: auto !important;
+    margin:0 0 0 -2rem !important;
+    }
+    .BriilenceImg{
+    width:18rem !important;
+    height: auto !important;
+    margin:0 0 0 5.2rem !important;
+    }
+  
+    .textDiv1{
+      margin-left: 4rem !important;
+    }
+    .BSM{
+      width: 250px;
+      font-size: 2rem !important;
+    
+    }
+     
+  
+  .BSMtext {
+    font-size: 12px !important;
+  }
+  
+  .headinNum{
+  font-size: 1.3rem !important;
+  
+  }
+  
+  .satis{
+    font-size: 8px !important;
+  }
+  
+      .wOrOw {
+      display: flex;
+      justify-content:center;
+      align-items: center;
+      padding: 5rem 0 !important;
+      margin-top: 1rem !important;
+    }
+    
+    .WeWork {
+      width:80% !important;
+      height: auto !important;
+      margin: 0 auto !important;
+    
+    }
+    
+    .WoToprect {
+      width:4%;
+      height: auto;
+      margin: 5rem 0 0 7% !important;
+    }
+   
+    .container {
+      
+      width: 100% !important;
+      height: auto !important;
+      overflow: hidden !important;
+    }
+  
+      
+    .card1,
+    .card2 {
+  
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      display: flex;
+      flex-direction: column;
+      
+      animation-duration: 2s;
+      animation-iteration-count: infinite;
+      transform-origin: bottom;
+    }
+     
+    .card {
+      width: 100% !important;
+      height:18rem !important;
+      border: none;
+      padding: 2rem !important;
+      animation-timing-function: ease;
+      z-index: 1;
+  border-radius: 3rem;
+  
+  margin-top: 2rem !important;
+  
+  } 
+  
+  
+    
+  .card1{
+    width: 100% !important;
+    height:18rem !important;
+    
+    margin: 8rem 0 -21.5rem 0 !important;
+  opacity: 1;  
+  
+    
+  }
+  
+  .card2 {
+    width: 100%;
+    height:18rem;
+    display: flex;
+      z-index: 0;
+    background-color:#ec6608;
+    color: white;
+    margin: 3.5rem 0 0 0 !important ;
+   
+   opacity: 0;
+  }
+  
+  .container:hover .card1 {
+    opacity: 0;
+  }
+  
+  .container:hover .card2 {
+    opacity: 1;
+    z-index: 1;
+  }
+  
+  .card-title{
+  font-size: 70%;
+  font-weight: 700;
+  }
+  
+  .card-text{
+    font-size:12px !important;
+  }
+  
+  .comm-card{
+    width: 100% !important;
+    height: 8rem !important;
+    padding: 1rem 0 !important;
+  }
+  
+
+  .star{
+    width: 6rem !important;
+    height: auto !important;
+    margin: 10px 0 0 55% !important;
+  }
+  
+  .clientn{
+    margin-top: -1.5rem !important;
+  }
+
+  .cliente{
+    margin-top: 1rem !important;
+  }
+  
+  }
+  
+  
+  
+  
+  
+  
+  @media (min-width:1201px) and (max-width:1534px){
+
+
+    .ideaImge{
+      width:20rem !important;
+      height: auto !important;
+      margin:0 0 0 0rem !important;
+      }
+      .BriilenceImg{
+      width:20rem !important;
+      height: auto !important;
+      margin:0 0 0 2rem !important;
+      }
+    
+      .textDiv1{
+        margin-left: 0rem !important;
+      }
+      .BSM{
+        width: 450px !important;
+        font-size: 3.5rem !important;
+        margin-left: -1rem !important;
+      
+      }
+       
+    
+    .BSMtext {
+      font-size: 1rem !important;
+    }
+    
+    .headinNum{
+    font-size: 2.3rem !important;
+    
+    }
+    
+    .satis{
+      font-size: 1rem !important;
+    }
+    
+        
+    .wOrOw {
+      display: flex !important;
+      justify-content:center !important;
+      align-items: center !important;
+      padding: 0rem 0 !important;
+      margin-top: 1rem !important;
+    }
+    
+    .WeWork {
+      display: flex;
+  
+      width:80% !important;
+      height: auto !important;
+      margin: 0rem auto !important;
+    
+    }
+    
+    .WoToprect {
+      width: 4% !important;
+      height: auto !important;
+      margin: 0rem 0 0 7% !important;
+    }
+    
+    .WORect {
+      width: 70% !important;
+      height: auto !important;
+      
+    }
+  
+    .container {
+      
+      width: 100%;
+      height: auto;
+      overflow: hidden;
+    }
+  
+      
+    .card1,
+    .card2 {
+  
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      display: flex;
+      flex-direction: column;
+      
+      animation-duration: 2s;
+      animation-iteration-count: infinite;
+      transform-origin: bottom;
+    }
+     
+    .card {
+      width: 100% !important;
+      height:20rem !important;
+      border: none;
+      padding: 2rem !important;
+      animation-timing-function: ease;
+      z-index: 1;
+  border-radius: 3rem !important;
+  
+  margin-top: 2rem !important;
+  
+  } 
+  
+  
+    
+  .card1{
+    
+    margin: 5.1rem 0 -26.8rem 0 !important;
+  opacity: 1;  
+  
+  
+    
+  }
+  
+  .card2 {
+    display: flex !important;
+      z-index: 0 !important;
+    background-color:#ec6608 !important;
+    color: white !important;
+    margin: 7.6rem 0 0 0 !important ;
+   
+   opacity: 0;
+  }
+  
+  .container:hover .card1 {
+    opacity: 0 !important;
+  }
+  
+  .container:hover .card2 {
+    opacity: 1 !important;
+    z-index: 1 !important;
+  }
+  
+  .card-title{
+  font-size:1rem !important;
+  font-weight: 700 !important;
+  }
+
+  .comm-card{
+    width: 100% !important;
+    height: auto!important;
+    padding: 2rem 0;
+  }
+  
+
+  .star{
+    width: 7rem !important;
+    height: auto !important;
+    margin: -2.5rem 0 0 72% !important;
+  }
+  
+  .clientn{
+    margin: -2.3rem 0 0 10%!important;
+  }
+
+  .cliente{
+    margin:4.5px 0 0 10% !important;
+  }
+  
+  .textCard{
+    margin-top: 1rem !important;
+  }
+  
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

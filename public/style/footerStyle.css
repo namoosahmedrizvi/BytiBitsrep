@@ -1,0 +1,141 @@
+#ContactUs{
+    width: 97%;
+    background-color: #f4efec;
+    margin: 0 auto 0 auto !important;
+    padding: 0 0 5rem 0 !important;
+}
+ul{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.Logobb{
+ 
+ 
+ width: 196px !important;
+ height: 186px !important;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto !important;
+}
+
+
+
+.heads{
+
+font-size: 1rem;
+font-weight: 600;
+}
+
+li{
+    list-style: none;
+    margin-bottom: 0.5rem;
+    text-decoration: none;
+    color: black;
+}
+
+.links{
+    text-decoration: none;
+}
+
+.textF{
+        
+   
+    margin: 0 auto;
+    width:250px;
+
+}
+
+.socialL{
+    width:25px;
+    height: 25px;
+    margin-left: 15px;
+}
+
+.mainLogo{
+
+    margin-top:-70px;
+}
+
+
+@media (max-width:500px) {
+    
+    #ContactUs{
+        width: 95%;
+        background-color: #f4efec;
+        margin: 0 auto !important;
+        padding-bottom: 18rem !important;
+    }
+}
+
+
+@media (min-width:500px) and (max-width:767px) {
+    
+    #ContactUs{
+        width: 95%;
+        background-color: #f4efec;
+        margin: 0 auto !important;
+        padding-bottom: 10rem !important;
+    }
+}
+
+
+
+
+
+
+@media (min-width:768px) and (max-width:991px){
+    #ContactUs{
+        width: 95%;
+        background-color: #f4efec;
+        margin: 0 auto !important;
+        padding-bottom:42rem !important;
+    }
+    .Logobb{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin: 0 auto;
+    }
+    .textF{
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin: 0 auto 1rem auto;
+        width:350px;
+    
+    }
+
+    .socialL{
+        width:42px !important;
+        height: 42px !important;
+        margin-left: 20px;
+    }
+}
+
+
+@media (min-width:992px) and (max-width:1200px){
+    #ContactUs{
+        width: 95%;
+        background-color: #f4efec;
+        margin: 0 auto !important;
+        padding-bottom:3rem !important;
+    }
+   
+}
+
+@media (min-width:1201px) and (max-width:1535px){
+    #ContactUs{
+        width: 95%;
+        background-color: #f4efec;
+        margin: 0 auto !important;
+        padding-bottom:11rem !important;
+    }
+   
+}
